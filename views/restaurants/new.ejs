@@ -1,0 +1,61 @@
+<% layout("layouts/boilerplate")%>
+
+<div class="row">
+    <h1 class="text-center">New Restaurant</h1>
+    <div class="col-6 offset-3">
+        <form action="/restaurants" method="POST" novalidate class="validated-form">
+            <div class="mb-2">
+                <label class="form-label" for="title">Title</label>
+                <input class="form-control" type="text" id="title" name="restaurant[title]" required>
+                <div class="valid-feedback">
+                    Looks Good!
+                </div>
+            </div>
+            <div class="mb-2">
+                <label class="form-label" for="location">Location</label>
+                <input class="form-control" type="text" id="location" name="restaurant[location]" required>
+                <div class="valid-feedback">
+                    Looks Good!
+                </div>
+            </div>
+            <div class="mb-2">
+                <label class="form-label" for="">Price</label>
+                <div class="d-flex justify-content-around">
+                    <div class="custom-control custom-radio">
+                        <input type="radio" id="price1" class="custom-control-input" name="restaurant[price]" value="$" checked>
+                        <label class="custom-control-label" for="price1"><b>$</b> <small class="text-muted">Cheap Prices</small></label>
+                    </div>
+                    <div class="custom-control custom-radio">
+                        <input type="radio" id="price2" class="custom-control-input" name="restaurant[price]" value="$$">
+                        <label class="custom-control-label" for="price2"><b>$ $</b> <small class="text-muted">Medium Prices</small></label>
+                    </div>
+                    <div class="custom-control custom-radio">
+                        <input type="radio" id="price3" class="custom-control-input" name="restaurant[price]" value="$$$">
+                        <label class="custom-control-label" for="price3"><b>$ $ $</b> <small class="text-muted">High Prices</small></label>
+                    </div>
+                  </div>
+            </div>
+            <div class="mb-2">
+                <label class="form-label" for="image">Image Url</label>
+                <input class="form-control" type="text" id="image" name="restaurant[image]" required>
+                <div class="valid-feedback">
+                    Looks Good!
+                </div>
+            </div>
+            <div class="mb-2">
+                <label class="form-label" for="description">Description</label>
+                <textarea class="form-control" type="text" id="description" name="restaurant[description]" required></textarea>
+                <div class="valid-feedback">
+                    Looks Good!
+                </div>
+            </div>
+            <div class="mb-3">
+                <button class="btn btn-success ">Add Restaurant</button>
+            </div>
+        </form>
+        <a href="/restaurants">All restaurants</a>
+        
+    </div>
+</div>
+
+

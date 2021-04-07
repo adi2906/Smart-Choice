@@ -1,0 +1,16 @@
+
+<%  layout("layouts/boilerplate") %> 
+<body>
+
+	<div id="notfound">
+		<div class="notfound">
+			<div class="notfound-404">
+				<h1>Oops!</h1>
+			</div>
+			<h2>Status Code: <%= statusCode %></h2>
+			<p><%= err.message %> </p>
+			<!-- <p><%= err.stack %> </p> -->
+			<a href="/">Go To Homepage</a>
+		</div>
+	</div>
+
