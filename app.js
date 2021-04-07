@@ -127,7 +127,7 @@ app.delete("/restaurants/:id", catchAsync( async (req, res)=>{
 
 // REVIEW ROUTES
 
-// POST
+// REVIEW - POST
 app.post("/restaurants/:id/reviews", validateReview, catchAsync( async (req, res)=>{
     const restaurant = await Restaurant.findById(req.params.id);
     const review = new Review(req.body.review) //its under the key of review because i did for e.g. review[body] review[rating]
@@ -135,6 +135,14 @@ app.post("/restaurants/:id/reviews", validateReview, catchAsync( async (req, res
     await review.save();
     await restaurant.save();
     res.redirect(`/restaurants/${restaurant._id}`);
+}))
+
+// REVIEW - DELETE
+app.delete("/restaurants/:id/reviews/:reviewId", catchAsync( async (req, res)=>{
+    const {id, reviewId} = req.params;
+    await Restaurant.findByIdAndUpdate(id, {$pull: {reviews: reviewId}});
+    await Review.findByIdAndDelete(reviewId);
+    res.redirect(`/restaurants/${id}`);
 }))
 
 
