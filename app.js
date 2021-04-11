@@ -1,14 +1,14 @@
 const express = require("express");
 const path = require("path");
 const mongoose = require("mongoose");
-const Restaurant = require("./models/restaurant");
 const methodOverride = require("method-override");
-const catchAsync = require("./utils/catchAsync");
-const ExpressError = require("./utils/ExpressError")
 const ejsMate = require("ejs-mate");
-const Joi = require("joi");
-const {restaurantSchema, reviewSchema} = require("./schemas.js");
-const Review = require("./models/review");
+const session = require("express-session");
+const flash = require("connect-flash");
+
+//routes
+const restaurants = require("./routes/restaurants");
+const reviews = require("./routes/reviews");
 
 // mongoose.set('bufferCommands', false);
 
@@ -17,6 +17,7 @@ mongoose.connect("mongodb://127.0.0.1:27017/licenta", {
     useNewUrlParser: true,
     useCreateIndex: true,
     useUnifiedTopology: true,
+    useFindAndModify: false,
     
 })
 
@@ -36,119 +37,39 @@ app.set("views", path.join(__dirname, "views"));
 
 app.use(express.urlencoded({extended:true})); //pt post!
 app.use(methodOverride("_method")) //pt update/delete
-app.use(express.static(__dirname + '/public')); //pt DESIGN!
+app.use(express.static(path.join(__dirname + '/public'))); //pt design & scripts
 
-//server-side validation
-//validate restaurants
-const validateRestaurant = (req, res, next) => {
-    const {error} = restaurantSchema.validate(req.body);
-
-    if (error) {
-        const message = error.details.map(elem => elem.message).join(",")
-        throw new ExpressError(message, 400); 
-    }
-    else {
-        next();
+const sessionConfig = {
+    secret: "licenta2021woo",
+    resave: false,
+    saveUninitialized: true,
+    cookie : {
+        httpOnly : true,
+        expire: Date.now() + 1000 * 60 * 60 * 24 * 7,
+        maxAge: 1000 * 60 * 60 * 24 * 7,
     }
 
 }
-
-//validate reviews
-const validateReview = (req, res, next) => {
-    const {error} = reviewSchema.validate(req.body);
-
-    if (error) {
-        const message = error.details.map(elem => elem.message).join(",")
-        throw new ExpressError(message, 400); 
-    }
-    else {
-        next();
-    }
-
-}
+app.use(session(sessionConfig));
+app.use(flash());
 
 
+
+app.use("/restaurants", restaurants);
+app.use("/restaurants/:id/reviews", reviews);
 
 //main page
 app.get("/", (req, res)=>{
     res.render("home");
 })
 
-//get
-app.get("/restaurants", async (req, res, next)=>{
-    
-    const restaurants = await Restaurant.find({});
-    res.render("restaurants/index", {restaurants})
-    
-})
-
-//post
-app.get("/restaurants/new", (req, res)=>{
-    res.render("restaurants/new");
-})
 
 
-app.post("/restaurants", validateRestaurant, catchAsync( async (req, res)=>{ //where the post is submitted to
-    // console.log( "BODYYYY" ,req.body.restaurant)
-
-    // if (!req.body.restaurant) throw new ExpressError("Invalid restaurant data", 400);
-    // console.log(req.body)
-    // this is going to validate our data before we attempt to save with mongoose
-   
-    const restaurant = new Restaurant(req.body.restaurant);
-    await restaurant.save();
-    res.redirect(`/restaurants/${restaurant._id}`);
-}))
-
-//get by id
-app.get("/restaurants/:id", catchAsync( async (req, res)=>{
-    const restaurant = await Restaurant.findById(req.params.id).populate("reviews");
-    res.render("restaurants/show", {restaurant});
-}))
-
-//update
-app.get("/restaurants/:id/edit", catchAsync( async (req, res)=>{
-    const restaurant = await Restaurant.findById(req.params.id);
-    res.render("restaurants/edit", {restaurant});
-}))
-
-app.put("/restaurants/:id", validateRestaurant, catchAsync( async (req, res)=>{
-    const {id} = req.params;
-    const restaurant = await Restaurant.findByIdAndUpdate(id, {...req.body.restaurant}, {new: true});
-    res.redirect(`/restaurants/${restaurant._id}`);
-}))
-
-//delete
-app.delete("/restaurants/:id", catchAsync( async (req, res)=>{
-    const {id} = req.params;
-    await Restaurant.findByIdAndDelete(id);
-    res.redirect(`/restaurants`);
-}))
-
-// REVIEW ROUTES
-
-// REVIEW - POST
-app.post("/restaurants/:id/reviews", validateReview, catchAsync( async (req, res)=>{
-    const restaurant = await Restaurant.findById(req.params.id);
-    const review = new Review(req.body.review) //its under the key of review because i did for e.g. review[body] review[rating]
-    restaurant.reviews.push(review);
-    await review.save();
-    await restaurant.save();
-    res.redirect(`/restaurants/${restaurant._id}`);
-}))
-
-// REVIEW - DELETE
-app.delete("/restaurants/:id/reviews/:reviewId", catchAsync( async (req, res)=>{
-    const {id, reviewId} = req.params;
-    await Restaurant.findByIdAndUpdate(id, {$pull: {reviews: reviewId}});
-    await Review.findByIdAndDelete(reviewId);
-    res.redirect(`/restaurants/${id}`);
-}))
 
 
-app.all("*", (req, res, next) => {
-    next(new ExpressError("Page Not Found", 404));
-})
+// app.all("*", (req, res, next) => {
+//     next(new ExpressError("Page Not Found", 404));
+// })
 
 
 app.use((err, req, res, next) => {
