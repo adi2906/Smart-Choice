@@ -1,10 +1,30 @@
 <% layout("layouts/boilerplate") %> 
 
+<h1>Login</h1>
+<form action="/login" method="POST" class="validated-form" novalidate>
+    <div class="mb-2">
+        <label class="form-label" for="username">Username</label>
+        <input class="form-control" type="text" id="username" name="username" required>
+        <div class="valid-feedback">
+            Looks Good!
+        </div>
+    </div>
+    <div class="mb-2">
+        <label class="form-label" for="password">Password</label>
+        <input class="form-control" type="password" id="password" name="password" required>
+        <div class="valid-feedback">
+            Looks Good!
+        </div>
+    </div>
+    <button class="btn btn-success ">Login</button>
+</form>
+
+
 <div class="container">
     <div class="row py-5 mt-4 align-items-center">
         <!-- Left Side -->
         <div class="col-md-5 pr-lg-5 mb-5 mb-md-0">
-            <img src="/media/img/burgerRegister.png" alt="" class="img-fluid mb-3 d-none d-md-block">
+            <img src="https://business-review.eu/wp-content/uploads/2016/06/beverages-hero-pic.png" alt="" class="img-fluid mb-3 d-none d-md-block">
             <h1>Create an Account</h1>
             <p class="font-italic text-muted mb-0">Create a new account and explore reviews and recommandations of the Best Restaurants!</p>
             

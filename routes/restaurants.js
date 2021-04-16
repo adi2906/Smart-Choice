@@ -4,7 +4,7 @@ const catchAsync = require("../utils/catchAsync");
 const ExpressError = require("../utils/ExpressError")
 const Restaurant = require("../models/restaurant");
 const {restaurantSchema} = require("../schemas.js");
-
+const {isLoggedIn} = require("../middleware");
 
 //validate restaurants server-side
 const validateRestaurant = (req, res, next) => {
@@ -27,12 +27,12 @@ router.get("/", catchAsync( async (req, res)=>{
 }))
 
 //post
-router.get("/new", (req, res)=>{
+router.get("/new", isLoggedIn, (req, res)=>{
     res.render("restaurants/new");
 })
 
 
-router.post("/", validateRestaurant, catchAsync( async (req, res)=>{ //where the post is submitted to
+router.post("/", isLoggedIn, validateRestaurant, catchAsync( async (req, res)=>{ //where the post is submitted to
     // console.log( "BODYYYY" ,req.body.restaurant)
 
     // if (!req.body.restaurant) throw new ExpressError("Invalid restaurant data", 400);
@@ -54,12 +54,12 @@ router.get("/:id", catchAsync( async (req, res)=>{
 }))
 
 //update
-router.get("/:id/edit", catchAsync( async (req, res)=>{
+router.get("/:id/edit", isLoggedIn, catchAsync( async (req, res)=>{
     const restaurant = await Restaurant.findById(req.params.id);
     res.render("restaurants/edit", {restaurant});
 }))
 
-router.put("/:id", validateRestaurant, catchAsync( async (req, res)=>{
+router.put("/:id", isLoggedIn, validateRestaurant, catchAsync( async (req, res)=>{
     const {id} = req.params;
     const restaurant = await Restaurant.findByIdAndUpdate(id, {...req.body.restaurant}, {new: true});
     req.flash("update", "Successfully updated restaurant!")
@@ -67,7 +67,7 @@ router.put("/:id", validateRestaurant, catchAsync( async (req, res)=>{
 }))
 
 //delete
-router.delete("/:id", catchAsync( async (req, res)=>{
+router.delete("/:id", isLoggedIn, catchAsync( async (req, res)=>{
     const {id} = req.params;
     await Restaurant.findByIdAndDelete(id);
     req.flash("success", "The restaurant was deleted successfully!")
