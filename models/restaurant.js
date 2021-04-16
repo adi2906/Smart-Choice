@@ -30,4 +30,5 @@ RestaurantSchema.post("findOneAndDelete", async function(doc){
     console.log(doc)
 })
 
+
 module.exports = mongoose.model("Restaurant", RestaurantSchema);

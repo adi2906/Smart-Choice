@@ -5,10 +5,17 @@ const methodOverride = require("method-override");
 const ejsMate = require("ejs-mate");
 const session = require("express-session");
 const flash = require("connect-flash");
+const User = require("./models/user");
+
+//authentification
+const passport = require("passport");
+const LocalStrategy = require("passport-local");
+
 
 //routes
-const restaurants = require("./routes/restaurants");
-const reviews = require("./routes/reviews");
+const userRoutes = require("./routes/users");
+const restaurantRoutes = require("./routes/restaurants");
+const reviewRoutes = require("./routes/reviews");
 
 // mongoose.set('bufferCommands', false);
 
@@ -30,8 +37,8 @@ db.once("open", ()=>{
 const app = express();
 
 
-console.log(__dirname)
-app.engine("ejs", ejsMate)
+console.log(__dirname);
+app.engine("ejs", ejsMate);
 app.set("view engine", "ejs");
 app.set("views", path.join(__dirname, "views"));
 
@@ -50,8 +57,19 @@ const sessionConfig = {
     }
 
 }
+
+
+
 app.use(session(sessionConfig));
 app.use(flash());
+
+app.use(passport.initialize());
+app.use(passport.session()); 
+passport.use(new LocalStrategy(User.authenticate()));
+
+passport.serializeUser(User.serializeUser());
+passport.deserializeUser(User.deserializeUser());
+
 
 app.use((req,res,next)=>{
     res.locals.success = req.flash("success");
@@ -61,9 +79,9 @@ app.use((req,res,next)=>{
 })
 
 
-
-app.use("/restaurants", restaurants);
-app.use("/restaurants/:id/reviews", reviews);
+app.use("/", userRoutes);
+app.use("/restaurants", restaurantRoutes);
+app.use("/restaurants/:id/reviews", reviewRoutes);
 
 //main page
 app.get("/", (req, res)=>{
