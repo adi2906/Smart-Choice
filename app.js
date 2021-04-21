@@ -71,10 +71,13 @@ passport.serializeUser(User.serializeUser());
 passport.deserializeUser(User.deserializeUser());
 
 
-app.use((req,res,next)=>{
+app.use((req,res,next) => {
+    // console.log(req.user)
+    res.locals.currentUser = req.user;
     res.locals.success = req.flash("success");
     res.locals.update = req.flash("update");
     res.locals.error = req.flash("error");
+    
     next();
 })
 
@@ -105,6 +108,6 @@ app.use((err, req, res, next) => {
 })
 
 
-app.listen(3000, ()=>{
+app.listen(3000, () => {
     console.log("Serving on port 3000");
 })

@@ -30,6 +30,7 @@ const seedDB = async() => {
     for(let i = 0; i< 50; i++) {
         const random271 = Math.floor(Math.random() * 271);
         const restaurant = await new Restaurant ({
+            author: "607c99028170d71a7c6a2ad5",
             title: `${sample(descriptors)} ${sample(places)}`,
             location: `${cities[random271].city}, ${cities[random271].admin_name}`,
             image: "https://source.unsplash.com/collection/312299",

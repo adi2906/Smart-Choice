@@ -1,0 +1,17 @@
+.zoom {
+    object-fit: cover;
+    width: 100%;
+    height:230px;
+    transition: transform .2s; 
+}
+
+.show-zoom {
+    object-fit: cover;
+    width: 100%;
+    height: 450px;
+    transition: transform .2s; 
+}
+  
+.zoom:hover, .show-zoom:hover {
+    transform: scale(1.02); 
+}

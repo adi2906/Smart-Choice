@@ -1,5 +1,8 @@
-authentification
 authorization
-pagination
+pagination review + restaurants
 google api for location
 fix images from seeds
+clickable city -> sa arate toate restaurantele cu city respectiv
+home page refact
+review route bug at post
+video-player show page mby

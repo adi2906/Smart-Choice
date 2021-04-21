@@ -1,91 +1,20 @@
 <% layout("layouts/boilerplate") %> 
 
-<h1>Login</h1>
-<form action="/login" method="POST" class="validated-form" novalidate>
-    <div class="mb-2">
-        <label class="form-label" for="username">Username</label>
-        <input class="form-control" type="text" id="username" name="username" required>
-        <div class="valid-feedback">
-            Looks Good!
-        </div>
-    </div>
-    <div class="mb-2">
-        <label class="form-label" for="password">Password</label>
-        <input class="form-control" type="password" id="password" name="password" required>
-        <div class="valid-feedback">
-            Looks Good!
-        </div>
-    </div>
-    <button class="btn btn-success ">Login</button>
-</form>
 
 
 <div class="container">
-    <div class="row py-5 mt-4 align-items-center">
+    <div class="row py-0 mt-0 align-items-center">
         <!-- Left Side -->
-        <div class="col-md-5 pr-lg-5 mb-5 mb-md-0">
-            <img src="https://business-review.eu/wp-content/uploads/2016/06/beverages-hero-pic.png" alt="" class="img-fluid mb-3 d-none d-md-block">
-            <h1>Create an Account</h1>
-            <p class="font-italic text-muted mb-0">Create a new account and explore reviews and recommandations of the Best Restaurants!</p>
-            
+        <div class="col-lg-5 pr-lg-5 mb-5 ms-5 mb-md-0">
+            <img src="/media/img/muffinLogin.png" alt="" class="img-fluid mb-3 d-none d-md-block">
+            <h1>Log in</h1>
+            <p class="font-italic text-muted mb-0">Log in to your account and explore reviews and recommendations of the Best Restaurants!</p>
         </div>
 
         <!-- Registeration Form -->
         <div class="col-md-7 col-lg-6 ms-auto">
-            <form action="/register" method="POST" class="validated-form" novalidate>
+            <form action="/login" method="POST" class="validated-form" novalidate>
                 <div class="row">
-                      <!-- First Name -->
-                      <div class="input-group col-lg-6 mb-4">
-                        <div class="input-group-prepend">
-                            <span class="input-group-text bg-white px-4 border-md border-right-0">
-                                &nbsp;<i class="fa fa-user text-muted"></i>
-                            </span>
-                        </div>
-                        <input id="firstName" type="text" name="firstName" placeholder="First Name" class="form-control bg-white border-md" required>
-                        <div class="valid-feedback">
-                            Looks Good!
-                        </div>
-                    </div>
-
-                
-                    <!-- Last Name -->
-                    <div class="input-group col-lg-6 mb-4">
-                        <div class="input-group-prepend">
-                            <span class="input-group-text bg-white px-4 border-md border-right-0">
-                                &nbsp;<i class="fa fa-user text-muted"></i>
-                            </span>
-                        </div>
-                        <input id="lastName" type="text" name="lastName" placeholder="Last Name" class="form-control bg-whiteborder-md" required>
-                        <div class="valid-feedback">
-                            Looks Good!
-                        </div>
-                    </div>
-
-                    <!-- Email Address -->
-                    <div class="input-group col-lg-12 mb-4">
-                        <div class="input-group-prepend">
-                            <span class="input-group-text bg-white px-4 border-md border-right-0">
-                                &nbsp;<i class="fa fa-envelope text-muted"></i>
-                            </span>
-                        </div>
-                        <input id="email" type="email" name="email" placeholder="Email Address" class="form-control bg-white border-md" required>
-                        <div class="valid-feedback">
-                            Looks Good!
-                        </div>
-                    </div>
-
-                    <!-- Phone Number -->
-                    <div class="input-group col-lg-12 mb-4">
-                        <div class="input-group-prepend">
-                            <span class="input-group-text bg-white px-4 border-md border-right-0">
-                                &nbsp;<i class="fa fa-phone-square text-muted"></i>
-                            </span>
-                        </div>
-                        <input id="phoneNumber" type="tel" name="phone" placeholder="Phone Number" class="form-control bg-white border-md  pl-3" required>
-                        <div class="valid-feedback">
-                            Looks Good!
-                        </div>
-                    </div>
 
                     <!-- Username -->
                     <div class="input-group col-lg-6 mb-4">
@@ -113,28 +42,15 @@
                         </div>
                     </div>
 
-                    <!-- Password Confirmation -->
-                    <div class="input-group col-lg-6 mb-4">
-                        <div class="input-group-prepend">
-                            <span class="input-group-text bg-white px-4 border-md border-right-0">
-                                &nbsp;<i class="fa fa-lock text-muted"></i>
-                            </span>
-                        </div>
-                        <input id="passwordConfirmation" type="text" name="passwordConfirmation" placeholder="Confirm Password" class="form-control bg-white border-left-0 border-md" required>
-                        <div class="valid-feedback">
-                            Looks Good!
-                        </div>
-                    </div>
-
                     <!-- Submit Button -->
-                    <div class="form-group col-lg-12 mx-auto mb-0">
-                            <button class="btn btn-primary font-weight-bold mr-auto">Create your account</button>
+                    <div class="form-group mb-2 d-flex justify-content-center">
+                            <button class="btn btn-primary font-weight-bold w-50">Login</button>
                         </a>
                     </div>
                 
-                    <!-- Already Registered -->
-                    <div class="text-center w-100">
-                        <p class="text-muted font-weight-bold">Already Registered? <a href="/login" class="text-primary">Login</a></p>
+                    <!-- Don't have an account -->
+                    <div class="d-flex justify-content-center">
+                        <p class="text-muted font-weight-bold">Don't have an account? <a href="/register" class="text-primary">Register</a></p>
                     </div>
 
                 </div>

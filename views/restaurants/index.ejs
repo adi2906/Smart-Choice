@@ -4,18 +4,21 @@
     <!-- <a href="/restaurants/new">Add Restaurant</a> -->
 </div>
 
+<link type="text/css" rel="stylesheet" href="/css/cards.css" />
+
+
 <% for (let restaurant of restaurants){ %>
-    <div class="card mb-3">
+    <div class="card mb-3 bg-light">
         <div class="row">
             <div class="col-md-4">
-                <img src="<%= restaurant.image %>" class="img-fluid" alt="">
+                <img src="<%= restaurant.image %>" class="img-fluid zoom" alt="">
             </div>
             <div class="col-md-8">
                 <div class="card-body">
                     <h5 class="card-title"><%= restaurant.title %></h5>
                     <p class="card-text"><%= restaurant.description %></p>
                     <p class="card-text">
-                        <small class="text-muted"><%= restaurant.location %> </small>
+                        <small class="text-muted"><%= restaurant.location %></small>
                     </p>
                     <a href="/restaurants/<%=restaurant._id%> " class="btn btn-primary">View <%= restaurant.title %> </a>
                 </div>

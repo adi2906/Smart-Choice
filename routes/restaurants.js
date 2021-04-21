@@ -1,27 +1,15 @@
 const express = require("express");
 const router = express.Router();
 const catchAsync = require("../utils/catchAsync");
-const ExpressError = require("../utils/ExpressError")
 const Restaurant = require("../models/restaurant");
-const {restaurantSchema} = require("../schemas.js");
-const {isLoggedIn} = require("../middleware");
+const {isLoggedIn, isAuthor, validateRestaurant} = require("../middleware");
 
-//validate restaurants server-side
-const validateRestaurant = (req, res, next) => {
-    const {error} = restaurantSchema.validate(req.body);
-    if (error) {
-        const message = error.details.map(elem => elem.message).join(",")
-        throw new ExpressError(message, 400); 
-    }
-    else {
-        next();
-    }
-}
+
 
 //get
 router.get("/", catchAsync( async (req, res)=>{
     
-    const restaurants = await Restaurant.find({});
+    const restaurants = await Restaurant.find({}).populate("author");
     res.render("restaurants/index", {restaurants})
     
 }))
@@ -38,6 +26,7 @@ router.post("/", isLoggedIn, validateRestaurant, catchAsync( async (req, res)=>{
     // if (!req.body.restaurant) throw new ExpressError("Invalid restaurant data", 400);
     // console.log(req.body)    
     const restaurant = new Restaurant(req.body.restaurant);
+    restaurant.author = req.user._id;
     await restaurant.save();
     req.flash("success", "Successfully made a new restaurant!");
     res.redirect(`/restaurants/${restaurant._id}`);
@@ -45,7 +34,8 @@ router.post("/", isLoggedIn, validateRestaurant, catchAsync( async (req, res)=>{
 
 //get by id
 router.get("/:id", catchAsync( async (req, res)=>{
-    const restaurant = await Restaurant.findById(req.params.id).populate("reviews");
+    const restaurant = await Restaurant.findById(req.params.id).populate({path: "reviews", populate: {path: "author"}}).populate("author"); //nested 
+    // console.log(restaurant);
     if(!restaurant) {
         req.flash("error", "Restaurant not found!");
         return res.redirect("/restaurants");
@@ -54,20 +44,27 @@ router.get("/:id", catchAsync( async (req, res)=>{
 }))
 
 //update
-router.get("/:id/edit", isLoggedIn, catchAsync( async (req, res)=>{
-    const restaurant = await Restaurant.findById(req.params.id);
+router.get("/:id/edit", isLoggedIn, isAuthor, catchAsync( async (req, res)=>{
+    const {id} = req.params;
+    const restaurant = await Restaurant.findById(id);
+    if (!restaurant) {
+        req.flash("error", "Cannot find that restaurant!");
+        return res.redirect("/restaurants");
+    }
+    
     res.render("restaurants/edit", {restaurant});
 }))
 
-router.put("/:id", isLoggedIn, validateRestaurant, catchAsync( async (req, res)=>{
+router.put("/:id", isLoggedIn, validateRestaurant, isAuthor, catchAsync( async (req, res)=>{
     const {id} = req.params;
+  
     const restaurant = await Restaurant.findByIdAndUpdate(id, {...req.body.restaurant}, {new: true});
     req.flash("update", "Successfully updated restaurant!")
     res.redirect(`/restaurants/${restaurant._id}`);
 }))
 
 //delete
-router.delete("/:id", isLoggedIn, catchAsync( async (req, res)=>{
+router.delete("/:id", isLoggedIn, isAuthor, catchAsync( async (req, res)=>{
     const {id} = req.params;
     await Restaurant.findByIdAndDelete(id);
     req.flash("success", "The restaurant was deleted successfully!")
