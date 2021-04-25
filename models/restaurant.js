@@ -2,10 +2,20 @@ const mongoose = require("mongoose");
 const Review = require("./review")
 const Schema = mongoose.Schema;
 
+const ImageSchema = new Schema({
+    url: String,
+    filename: String
+})
+
+ImageSchema.virtual("representation").get(function() { //virtual ca sa nu mai stochez in db deoarece e derivat din datele pe care le stochez deja (url)
+    // this = image normal func
+    return this.url.replace("/upload", "/upload/w_300")
+})
 
 const RestaurantSchema = new Schema({
     title: String,
-    image: String,
+    defaultImage: String,
+    images: [ImageSchema],
     price: String,
     description: String,
     location: String,

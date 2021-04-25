@@ -3,7 +3,7 @@
 <div class="row">
     <h1 class="text-center">New Restaurant</h1>
     <div class="col-6 offset-3">
-        <form action="/restaurants" method="POST" novalidate class="validated-form">
+        <form action="/restaurants" method="POST" novalidate class="validated-form" enctype="multipart/form-data">
             <div class="mb-2">
                 <label class="form-label" for="title">Title</label>
                 <input class="form-control" type="text" id="title" name="restaurant[title]" required>
@@ -35,13 +35,16 @@
                     </div>
                   </div>
             </div>
-            <div class="mb-2">
+           
+
+            <!-- <input type="file" name="image" id="" multiple dropzone=""> -->
+            <!-- <div class="mb-2">
                 <label class="form-label" for="image">Image Url</label>
                 <input class="form-control" type="text" id="image" name="restaurant[image]" required>
                 <div class="valid-feedback">
                     Looks Good!
                 </div>
-            </div>
+            </div> -->
             <div class="mb-2">
                 <label class="form-label" for="description">Description</label>
                 <textarea class="form-control" type="text" id="description" name="restaurant[description]" required></textarea>
@@ -49,6 +52,13 @@
                     Looks Good!
                 </div>
             </div>
+
+             <!-- IMAGE -->
+             <div class="form-file custom-file mb-3">
+                <label for="images" class="form-label">Choose images</label>
+                <input class="form-control custom-file-label" type="file" id="images" name="image" multiple>
+            </div>
+
             <div class="mb-3">
                 <button class="btn btn-success ">Add Restaurant</button>
             </div>

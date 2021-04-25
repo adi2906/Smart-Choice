@@ -11,7 +11,7 @@
     <div class="card mb-3 bg-light">
         <div class="row">
             <div class="col-md-4">
-                <img src="<%= restaurant.image %>" class="img-fluid zoom" alt="">
+                <img src="<%= (restaurant.images.length > 0 ) ? restaurant.images[0].url : restaurant.defaultImage %>" class="img-fluid zoom" alt="">
             </div>
             <div class="col-md-8">
                 <div class="card-body">

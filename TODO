@@ -1,8 +1,36 @@
-authorization
-pagination review + restaurants
-google api for location
-fix images from seeds
-clickable city -> sa arate toate restaurantele cu city respectiv
-home page refact
-review route bug at post
-video-player show page mby
+TODO: 
+    ☐ fix home page navbar (bootstrap 4.0 in loc de 5.0 cred)
+    ☐ fix images from seeds
+    ☐ create a special folder for images of seeds ! cloudinary
+    ☐ BACKUP IMAGES ( in case of deleting all imgs)
+
+
+Ideas:
+    ☐ pagination review + restaurants
+    ☐ google api for location
+    ☐ clickable city -> sa arate toate restaurantele cu city respectiv
+    ☐ review route bug at post
+    ☐ video-player on show page mby
+
+
+Features Added:
+
+        ✔ refactored routes @done(21-04-24 22:48)
+        ✔ authorization @done(21-04-24 22:48)
+        ✔ stars @done(21-04-24 22:48)
+        ✔ store images on cloudinary @done(21-04-24 22:48)
+        ✔ created carousel for images @done(21-04-24 22:48)
+        ✔ created edit for images - merge sa adaugi imagini in array @done(21-04-24 23:33)
+        ✔ cloudinary @done(21-04-26 01:56)
+        ✔ add/update/delete cloudinary @done(21-04-26 03:25)
+        
+
+    
+    
+
+'Cmd/Ctrl+Enter' // Triggers `Todo: Toggle Box`
+'Alt+Enter' // Triggers `Todo: Toggle Box`
+'Alt+D' // Triggers `Todo: Toggle Done`
+'Alt+C' // Triggers `Todo: Toggle Cancelled`
+'Alt+S' // Triggers `Todo: Toggle Start`
+'Cmd/Ctrl+Shift+A' // Triggers  `Todo: Archive`
