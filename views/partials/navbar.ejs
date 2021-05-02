@@ -1,6 +1,6 @@
 <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark text-white ">
     <div class="container-fluid">
-        <a class="navbar-brand" href="/restaurants">
+        <a class="navbar-brand" href="/restaurants?page=1&limit=10">
             <img src="/media/img/logo3.png"  alt="" width="" height="0px">Smart Choice
           </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -9,7 +9,7 @@
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
                 <a class="nav-link" href="/">Home</a>
-                <a class="nav-link" href="/restaurants">Restaurants</a>
+                <a class="nav-link" href="/restaurants?page=1&limit=10">Restaurants</a>
                 <% if(currentUser){ %>  
                 <a class="nav-link" href="/restaurants/new">New Restaurant</a>
                 <% } %> 

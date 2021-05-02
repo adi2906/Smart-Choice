@@ -3,20 +3,23 @@ const {cloudinary} = require("../cloudinary")
 
 
 module.exports.index = async (req, res) => {
-    let restaurants = await Restaurant.find({}).populate("author");
-    console.log(restaurants)
-    res.render("restaurants/index", {restaurants})
+    // let restaurants = await Restaurant.find({}).populate("author");
+    let restaurants = res.paginatedResults.results;
+    let {next, previous, numberOfEntities} = res.paginatedResults;
+    let {page, limit} = req.query;
+
+    // console.log(numberOfEntities)
+    // console.log("Next: ", next)
+    // console.log("Previous: ", previous)
+
+    res.render("restaurants/index", {restaurants, next, previous, page, limit, numberOfEntities})
 }
 
 module.exports.renderNewForm = (req, res) => {
     res.render("restaurants/new");
 }
 
-module.exports.createRestaurant = async (req, res)=>{ //where the post is submitted to
-    // console.log( "BODYYYY" ,req.body.restaurant)
-    // if (!req.body.restaurant) throw new ExpressError("Invalid restaurant data", 400);
-    // console.log(req.body)    
-     
+module.exports.createRestaurant = async (req, res)=>{ //where the post is submitted to     
     const restaurant = new Restaurant(req.body.restaurant);
     restaurant.images = req.files.map(f => ({url: f.path, filename: f.filename}));
     restaurant.author = req.user._id;
@@ -32,7 +35,7 @@ module.exports.showRestaurant = async (req, res)=>{
     // console.log(restaurant);
     if(!restaurant) {
         req.flash("error", "Restaurant not found!");
-        return res.redirect("/restaurants");
+        return res.redirect("/restaurants?page=1&limit=10");
     }
     res.render("restaurants/show", {restaurant});
 }
@@ -42,7 +45,7 @@ module.exports.renderEditForm = async (req, res)=>{
     const restaurant = await Restaurant.findById(id);
     if (!restaurant) {
         req.flash("error", "Cannot find that restaurant!");
-        return res.redirect("/restaurants");
+        return res.redirect("/restaurants?page=1&limit=10");
     }
     
     res.render("restaurants/edit", {restaurant});

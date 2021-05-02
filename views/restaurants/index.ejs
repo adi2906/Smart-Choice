@@ -36,6 +36,17 @@
     </div>
 <% } %>
 
+<!-- Pagination -->
+<nav aria-label="Page navigation example">
+    <ul class="pagination justify-content-center">
+      <li class="page-item <%= previous ? "" : "disabled" %> "><a class="page-link" href="/restaurants?page=<%= previous ? previous.page : page %>&limit=<%= limit %>">Previous</a></li>
+      <% for (let i = 1; i <= Math.ceil(numberOfEntities / limit); i ++) {%>
+        <li class="page-item <%= page == i ? "active" : "" %> "><a class="page-link" href="/restaurants?page=<%= i %>&limit=<%= limit %>"><%= i %></a></li>
+      <% } %>  
+      <li class="page-item <%= next ? "" : "disabled" %> "><a class="page-link" href="/restaurants?page=<%= next ? next.page : page %>&limit=<%= limit %>">Next</a></li>
+    </ul>
+</nav>
+
 
 
 

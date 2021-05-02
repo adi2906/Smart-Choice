@@ -17,7 +17,7 @@ module.exports.register = async(req, res, next)=>{
         req.login(registeredUser, err => {
             if (err) return next(err);
             req.flash("success", "Welcome to my app!");
-            res.redirect("/restaurants");
+            res.redirect("/restaurants?page=1&limit=10");
         })
     }catch(e){
         req.flash("error", e.message);
@@ -32,7 +32,7 @@ module.exports.renderLogin = (req, res) => {
 
 module.exports.login = async (req, res) => {
     req.flash("success", `Welcome back, ${req.user.firstName}!`); 
-    const redirectUrl = req.session.returnTo || "/restaurants";
+    const redirectUrl = req.session.returnTo || "/restaurants?page=1&limit=10";
     delete req.session.returnTo;
     res.redirect(redirectUrl);
 }
@@ -40,5 +40,5 @@ module.exports.login = async (req, res) => {
 module.exports.logout = (req, res) => {
     req.logout();
     req.flash("update", "You've been logged out!");
-    res.redirect("/restaurants");
+    res.redirect("/restaurants?page=1&limit=10");
 }
