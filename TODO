@@ -1,9 +1,5 @@
-TODO: 
-    ☐ fix home page navbar (bootstrap 4.0 in loc de 5.0 cred)
-    ☐ fix images from seeds
-    ☐ create a special folder for images of seeds ! cloudinary
-    ☐ BACKUP IMAGES ( in case of deleting all imgs)
-
+BUG FIXING: 
+    ☐ add pagination
 
 Ideas:
     ☐ pagination review + restaurants
@@ -23,6 +19,8 @@ Features Added:
         ✔ created edit for images - merge sa adaugi imagini in array @done(21-04-24 23:33)
         ✔ cloudinary @done(21-04-26 01:56)
         ✔ add/update/delete cloudinary @done(21-04-26 03:25)
+        ✔ web scraping + adding to cloudinary @done(21-05-01 00:08)
+        ✔ added read more on index page @done(21-05-02 03:25)
         
 
     

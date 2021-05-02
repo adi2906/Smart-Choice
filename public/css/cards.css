@@ -1,3 +1,6 @@
+.inner{
+    overflow: hidden;
+}
 .zoom {
     object-fit: cover;
     width: 100%;
@@ -13,5 +16,16 @@
 }
   
 .zoom:hover, .show-zoom:hover {
-    transform: scale(1.02); 
+    transform: scale(1.25); 
+}
+
+.index-images {
+    height: 100%;
+}
+
+
+.show-page-card {
+    width:  500px;
+    height: 400px;
+    object-fit: cover;
 }

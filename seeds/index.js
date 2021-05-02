@@ -4,6 +4,7 @@ const Restaurant = require("../models/restaurant");
 const {places, descriptors} = require("./seedHelpers");
 
 
+
 mongoose.connect("mongodb://localhost:27017/licenta", {
     useNewUrlParser: true,
     useCreateIndex: true,
@@ -36,7 +37,7 @@ const seedDB = async() => {
             defaultImage: "https://res.cloudinary.com/adi2906/image/upload/v1619385303/Licenta/default_hrtqph.jpg",
             images: [
                 {
-                  url: 'https://res.cloudinary.com/adi2906/image/upload/v1619295084/Licenta/bseplctdbwrdagfwex1b.jpg',
+                  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png',
                   filename: 'Licenta/bseplctdbwrdagfwex1b'
                 },
                 {

@@ -1,8 +1,8 @@
 <% layout("layouts/boilerplate")%>
 
 <link rel="stylesheet" href="/css/starbility-slot.css">
+<link rel="stylesheet" href="/css/cards.css">
 
-<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"> -->
 
 
 <div class="row">
@@ -19,11 +19,11 @@
             <div class="carousel-inner">
                 <% if(restaurant.images.length > 0){ restaurant.images.forEach((img, i) => { %>
                     <div class="carousel-item <%= i == 0 ? 'active' : '' %> ">
-                        <img class="d-block w-100" src="<%= img.url %>" alt="First slide">
+                        <img class="d-block w-100 show-page-card" src="<%= img.url %>" alt="First slide">
                     </div>
                 <% }) } else { %>
                 <div class="carousel-item active">
-                    <img class="d-block w-100" src="<%= restaurant.defaultImage %>" alt="First slide">
+                    <img class="d-block w-100 customWW" src="<%= restaurant.defaultImage %>" alt="First slidesss">
                 </div>
                 <% } %> 
             </div>
@@ -68,9 +68,10 @@
                     </form>
                 </div>
                 <% } %>
-                    <!-- TO UPDATE! -->
+                    <!-- date -->
                     <div class="card-footer">
-                        <small class="text-muted">Last updated 3 mins ago</small>
+                        <!-- <small class="text-muted">Created at: <%= restaurant.created_at %> </small> -->
+                        <small class="text-muted">Last update: <%=  restaurant.updatedAt.toString().slice(0, 25) %></small>
                     </div>
         </div>
     </div>
@@ -136,12 +137,4 @@
                     <% } %>
     </div>
 </div>
-<!-- TODO: posts >= 3 pagination -->
 
-
-
-
-
-<!-- <footer>
-<a href="/restaurants">All restaurants</a>
-</footer> -->

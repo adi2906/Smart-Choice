@@ -3,8 +3,8 @@ const {cloudinary} = require("../cloudinary")
 
 
 module.exports.index = async (req, res) => {
-    const restaurants = await Restaurant.find({}).populate("author");
-    // console.log(restaurants)
+    let restaurants = await Restaurant.find({}).populate("author");
+    console.log(restaurants)
     res.render("restaurants/index", {restaurants})
 }
 
@@ -20,8 +20,9 @@ module.exports.createRestaurant = async (req, res)=>{ //where the post is submit
     const restaurant = new Restaurant(req.body.restaurant);
     restaurant.images = req.files.map(f => ({url: f.path, filename: f.filename}));
     restaurant.author = req.user._id;
+    restaurant.defaultImage = "/media/img/defaultPicture.png"
     await restaurant.save();
-    // console.log(restaurant)
+    console.log(restaurant)
     req.flash("success", "Successfully made a new restaurant!");
     res.redirect(`/restaurants/${restaurant._id}`);
 }

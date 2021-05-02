@@ -29,7 +29,7 @@ const RestaurantSchema = new Schema({
             ref: "Review"
         }
     ]
-});
+}, { timestamps: { createdAt: 'created_at' }} );
 
 // query middleware
 // doc este obiectul care a fost sters
