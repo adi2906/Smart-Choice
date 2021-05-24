@@ -2,13 +2,29 @@
 
 <link rel="stylesheet" href="/css/starbility-slot.css">
 <link rel="stylesheet" href="/css/cards.css">
+<!-- pt map -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+   integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+   crossorigin=""></script>
+
+<style>
+    #mapid{
+        height: 300px;
+    }
+</style>
+
 
 
 
 <div class="row">
+
     <!-- RESTAURANT -->
     <!-- IMAGE  carousel -->
     <div class="col-6">
+
         <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-indicators">
                 <% restaurant.images.forEach((img, i)=> { %>
@@ -74,6 +90,13 @@
                         <small class="text-muted">Last update: <%=  restaurant.updatedAt.toString().slice(0, 25) %></small>
                     </div>
         </div>
+
+        <!-- map -->
+        <div id="mapid" class="mb-5 rounded">
+            <span id="latitude"><%= location[0].latitude %></span>
+            <span id="longitude"><%= location[0].longitude %></span>
+        </div>
+
     </div>
     <!-- REVIEW -->
     <div class="col-6">
@@ -116,12 +139,13 @@
                         <div class="card-body">
                             <h5 class="card-title">
                                 <%= review.author.username %>
+                                <p class="starability-result float-end" data-rating="<%= review.rating %>">
+                                    Rated: <%= review.rating %> stars
+                                </p>
                             </h5>
                             <!-- <h5 class="card-title">Rating: <%= review.rating %></h5> -->
-                            <p class="starability-result" data-rating="<%= review.rating %>">
-                                Rated: <%= review.rating %> stars
-                            </p>
-                            <p class="card-text">Review: <%= review.body %>
+                            
+                            <p class="card-text"> <span class="lead"> Review:  </span>  <%= review.body %>
                             </p>
 
                             <% if(currentUser && review.author.equals(currentUser._id)){ %>
@@ -135,6 +159,11 @@
                         </div>
                     </div>
                     <% } %>
+                    
     </div>
 </div>
+<script src="/js/map.js"></script>
+
+
+
 

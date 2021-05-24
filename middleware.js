@@ -2,6 +2,9 @@ const {restaurantSchema, reviewSchema} = require("./schemas.js");
 const ExpressError = require("./utils/ExpressError")
 const Restaurant = require("./models/restaurant");
 const Review = require("./models/review");
+const {getLocation} = require("./utils/location")
+//location
+
 
 
 
@@ -34,6 +37,17 @@ module.exports.isReviewAuthor = async (req, res, next)=>{
         return res.redirect(`/restaurants/${id}`);
     }
     next();
+}
+
+module.exports.map = async (req, res, next)=>{
+  console.log("test");
+  const {id} = req.params;
+  const restaurant = await Restaurant.findById(id);
+  let location = await getLocation(restaurant.location).then((result)=> result);
+  console.log(location[0]);
+
+  
+  next();
 }
 
 

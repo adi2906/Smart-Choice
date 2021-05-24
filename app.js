@@ -11,6 +11,8 @@ const session = require("express-session");
 const flash = require("connect-flash");
 const User = require("./models/user");
 
+//map
+
 //authentification
 const passport = require("passport");
 const LocalStrategy = require("passport-local");

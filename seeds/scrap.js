@@ -3,10 +3,12 @@ require("dotenv").config()
 const mongoose = require("mongoose");
 const cities = require("./cities")
 const Restaurant = require("../models/restaurant");
+const Review = require("../models/review");
 const {places, descriptors} = require("./seedHelpers");
 const {cloudinary} = require("../cloudinary")
 const dateRestaurante = require("./dateRestaurante.json");
 const restaurant = require("../models/restaurant");
+const review = require("../models/review");
 
 mongoose.connect("mongodb://localhost:27017/licenta", {
     useNewUrlParser: true,
@@ -20,10 +22,37 @@ db.once("open", ()=>{
     console.log("Database connected");
 })
 
+//number of reviews:
+let reviewsSize = 0;
+for (let i = 0; i< dateRestaurante.length; i++){
+    reviewsSize++;
+}
 
+
+let listOfReviews = new Array(reviewsSize);
+for (var i = 0; i < listOfReviews.length; i++) {
+    listOfReviews[i] = [];
+}
+
+async function createNewReview() {
+    for (let i = 0; i < dateRestaurante.length; i++){
+        for (let j = 0; j < dateRestaurante[i].reviewObj.length; j++){
+            const review = await new Review({
+                rating : dateRestaurante[i].reviewObj[j].reviewStars,
+                body : dateRestaurante[i].reviewObj[j].reviewBody,
+                author: "60abd0f7e6863d282c7948f2"
+            })
+            await review.save();
+            listOfReviews[i][j] = review._id; 
+        }
+      
+    }
+}
+
+// Add restaurant with reviews
 const seedDBFromScraping = async() => {
     await Restaurant.deleteMany({});
-    for(let i = 0; i< 1; i++) {
+    for(let i = 0; i< dateRestaurante.length; i++) {
         const restaurant = await new Restaurant ({
             author: "6080516302ac0339ec6ce550",
             title: dateRestaurante[i].title,
@@ -32,24 +61,43 @@ const seedDBFromScraping = async() => {
             images: [],
             description: dateRestaurante[i].description,
             price: dateRestaurante[i].price,
+            reviews: [],
         })
+        // restaurant.reviews.push("608090168bbc28554880a962"); // MERGEEE!
+
+        // console.log(mongoose.Types.ObjectId.isValid("608052b66a2d2841983dd5d2")) 
+
+
+        // ADD REVIEWS:
+        for (let j = 0; j < listOfReviews[i].length; j++){
+            // console.log(listOfReviews[i][j])
+            restaurant.reviews.push(listOfReviews[i][j]);
+        }
+
+        // ADD IMAGES:
         for(let j = 0; j < dateRestaurante[i].images.length; j++){
             const cloud = await cloudinary.uploader.upload(dateRestaurante[i].images[j], { folder: "Licenta"}, function(error, result) {console.log(result, error)});
             let url = cloud.url;
             let filename = cloud.public_id;
             restaurant.images.push({url, filename})
+            if (j > 2) {
+                break;
+            }
         }
+
+
+        //save
         await restaurant.save();
 
-        // await restaurant.save();
-        // const cloud = await cloudinary.uploader.upload("https://cdn.vox-cdn.com/thumbor/6itLJS9BZ-B5gXPjM1AB_z-ZKVI=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/65890203/iStock_1067331614.7.jpg", { folder: "Licenta"},function(error, result) {console.log(result, error)});
-        // let url = cloud.url;
-        // let filename = cloud.public_id;
-        // restaurant.images.push({url, filename});
-        // await restaurant.save();
     }
 }
 
-seedDBFromScraping().then(() => {
-    mongoose.connection.close();
+createNewReview().then(()=>{
+    seedDBFromScraping().then(() => {
+        // console.log(listOfReviews);
+        mongoose.connection.close();
+    })
 })
+
+
+

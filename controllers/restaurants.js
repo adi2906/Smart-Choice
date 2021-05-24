@@ -1,6 +1,26 @@
 const Restaurant = require("../models/restaurant");
 const {cloudinary} = require("../cloudinary")
+const {getLocation} = require("../utils/location")
 
+// const NodeGeocoder = require('node-geocoder');
+
+// //map muta
+// const options = {
+//     provider: 'opencage',
+
+//     apiKey: '6e18e9ffc1ef42e5826a767dee562987', // for Mapquest, OpenCage, Google Premier
+//     formatter: null // 'gpx', 'string', ...
+// };
+
+// const geocoder = NodeGeocoder(options);
+
+// async function getLocation (location) {
+//     const rets = await geocoder.geocode(location);
+//     return rets;
+// }
+// getLocation('Strada George Constantinescu 2-4, Pipera, București').then((result)=> console.log(result));
+
+module.exports.idk = 3;
 
 module.exports.index = async (req, res) => {
     // let restaurants = await Restaurant.find({}).populate("author");
@@ -30,6 +50,7 @@ module.exports.createRestaurant = async (req, res)=>{ //where the post is submit
     res.redirect(`/restaurants/${restaurant._id}`);
 }
 
+
 module.exports.showRestaurant = async (req, res)=>{
     const restaurant = await Restaurant.findById(req.params.id).populate({path: "reviews", populate: {path: "author"}}).populate("author"); //nested 
     // console.log(restaurant);
@@ -37,7 +58,10 @@ module.exports.showRestaurant = async (req, res)=>{
         req.flash("error", "Restaurant not found!");
         return res.redirect("/restaurants?page=1&limit=10");
     }
-    res.render("restaurants/show", {restaurant});
+    let location = await getLocation(restaurant.location).then((result)=> result);
+    // let location = await getLocation('Strada George Constantinescu 2-4, Pipera, București').then((result)=> result);
+    // module.exports.showRestaurant = location;
+    res.render("restaurants/show", {restaurant, location});
 }
 
 module.exports.renderEditForm = async (req, res)=>{
@@ -74,5 +98,5 @@ module.exports.deleteRestaurant = async (req, res)=>{
     const {id} = req.params;
     await Restaurant.findByIdAndDelete(id);
     req.flash("success", "The restaurant was deleted successfully!")
-    res.redirect(`/restaurants`);
+    res.redirect(`/restaurants?page=1&limit=10`);
 }

@@ -1,7 +1,7 @@
 const express = require("express");
 const router = express.Router();
 const catchAsync = require("../utils/catchAsync");
-const {isLoggedIn, isAuthor, validateRestaurant, paginatedResults} = require("../middleware");
+const {isLoggedIn, isAuthor, validateRestaurant, paginatedResults, map} = require("../middleware");
 const restaurants = require("../controllers/restaurants");
 const multer = require("multer");
 const {storage} = require("../cloudinary");
@@ -10,7 +10,7 @@ const Restaurant = require("../models/restaurant")
 
 
 //get
-router.get("/", paginatedResults(Restaurant), catchAsync(restaurants.index), )
+router.get("/", paginatedResults(Restaurant), catchAsync(restaurants.index))
 
 //render new restaurant form
 router.get("/new", isLoggedIn, restaurants.renderNewForm)
@@ -21,7 +21,7 @@ router.post("/", isLoggedIn, upload.array("image"), validateRestaurant, catchAsy
 
 
 //get by id
-router.get("/:id", catchAsync( restaurants.showRestaurant))
+router.get("/:id", catchAsync( restaurants.showRestaurant) )
 
 //render edit restaurant form
 router.get("/:id/edit", isLoggedIn, isAuthor, catchAsync(restaurants.renderEditForm))

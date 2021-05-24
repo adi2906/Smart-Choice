@@ -2,11 +2,11 @@ BUG FIXING:
     
 
 Ideas:
-    ☐ pagination review + restaurants
     ☐ google api for location
     ☐ clickable city -> sa arate toate restaurantele cu city respectiv
-    ☐ review route bug at post
     ☐ video-player on show page mby
+    ☐ coord harta + recenzii scraping + scraping 2th site
+    ☐ Average rating on index page
 
 
 Features Added:
@@ -21,6 +21,10 @@ Features Added:
         ✔ add/update/delete cloudinary @done(21-04-26 03:25)
         ✔ web scraping + adding to cloudinary @done(21-05-01 00:08)
         ✔ added read more on index page @done(21-05-02 03:25)
+        ✔ added pagination @done(22-05-02 21:54)
+        ✔ updated webscrapping @done(21-05-24 18:26)
+        ✔ added reviews @done(21-05-24 19:30)
+        ✔ added map @done(21-05-24 19:30)
         
 
     
