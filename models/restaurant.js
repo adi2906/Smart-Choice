@@ -9,7 +9,7 @@ const ImageSchema = new Schema({
 
 ImageSchema.virtual("representation").get(function() { //virtual ca sa nu mai stochez in db deoarece e derivat din datele pe care le stochez deja (url)
     // this = image normal func
-    return this.url.replace("/upload", "/upload/w_300")
+    return this.url.replace("/upload", "/upload/c_fill,w_300,h_200")
 })
 
 const RestaurantSchema = new Schema({

@@ -70,11 +70,11 @@ const seedDBFromScraping = async() => {
 
         // ADD REVIEWS:
         for (let j = 0; j < listOfReviews[i].length; j++){
-            // console.log(listOfReviews[i][j])
             restaurant.reviews.push(listOfReviews[i][j]);
         }
 
         // ADD IMAGES:
+        console.log("Adding images");
         for(let j = 0; j < dateRestaurante[i].images.length; j++){
             const cloud = await cloudinary.uploader.upload(dateRestaurante[i].images[j], { folder: "Licenta"}, function(error, result) {console.log(result, error)});
             let url = cloud.url;
@@ -85,9 +85,10 @@ const seedDBFromScraping = async() => {
             }
         }
 
-
         //save
+        console.log("Saving restaurant...")
         await restaurant.save();
+        console.log("Saved", restaurant);
 
     }
 }

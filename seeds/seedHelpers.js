@@ -1,20 +1,14 @@
 module.exports.descriptors = [
-    "Forest",
-    "Ancient",
-    "Petrified",
-    "Cascade",
-    "Silent",
-    "Sea",
-    "Sky",
-    "Dusty",
-    "Diamond"
+    "test1",
+    "test2",
+    "test3",
+    "test4",
+    "test5"
 ]
 module.exports.places = [
-    "Flats",
-    "Village",
-    "Camp",
-    "Bay",
-    "Sands",
-    "Cliffs",
-    "Hollow"
+    "testWW1",
+    "testWW2",
+    "testWW3",
+    "testWW4",
+    "testWW5"
 ]

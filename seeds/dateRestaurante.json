@@ -1,102 +1,36 @@
 [
   {
-    "title": "Nomad Skybar",
+    "title": "Ergo Restaurant",
     "images": [
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/421/gallery/13309/conversions/117714789_4181878225215954_7877562579045727251_o-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/421/gallery/13316/conversions/122035347_4504996852904088_7241224950996414233_o-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/421/gallery/13315/conversions/121799895_4504997179570722_6507111341967120863_o-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/421/gallery/13311/conversions/119697310_4349534065117035_5138886651055622788_o-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/421/gallery/13319/conversions/103069153_3879255288811584_8395248221303078912_o-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/421/gallery/13312/conversions/120195837_4387684374635337_3528917781792484907_o-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/421/gallery/13313/conversions/120296989_4399947446742363_2155149485020612196_o-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/421/gallery/13314/conversions/121197735_4467958586607915_5967502301072408895_o-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/421/gallery/13310/conversions/119082104_4312399075497201_7408440000906375125_o-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/421/gallery/13317/conversions/122049319_4504997059570734_3149653302148505767_o-big.jpg"
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3317/gallery/15142/conversions/4fc0a2ae-7618-4907-aefe-2f57bf036e1e-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3317/gallery/15134/conversions/b6a33727-f411-456e-b399-89d0fdc9e6d4-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3317/gallery/15139/conversions/19c9242d-8807-4c6d-a744-63a050b884dd-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3317/gallery/15137/conversions/b98d8da9-cf21-4506-a654-96d36542d1fb-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3317/gallery/15136/conversions/bf152d97-12e9-4344-92ce-f6c363c08df5-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3317/gallery/15143/conversions/vlad-creteanu-corpconstruct-ergo-restaurant-006r-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3317/gallery/15138/conversions/d2ce2ded-ebf6-4dd4-b8fe-437a267ffbcd-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3317/gallery/15141/conversions/1f13f19b-b666-46e7-bd15-1725a0733ba2-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3317/gallery/15140/conversions/29e49c88-234b-4c56-9dec-fe83106b06cc-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3317/gallery/15135/conversions/55cf5ca0-2c97-4945-bdd4-a32f582bd0ff-big.jpg"
     ],
-    "description": "Situat la mansarda unei clădiri istorice din Centrul Vechi, Nomad te surprinde în primul rând cu designul, pornind de la tavanul integral de sticlă, apoi decorul eclectic, cu mese joase și tapițerii colorate. Meniul elaborat de cocktails completează propunerile culinare, cu influențe din marile bucătării ale lumii. Accentele italienești, franțuzești, americane și asiatice sunt regăsite în meniu. Serile sunt animate de DJ sets sau de concerte live, iar priveliștea spre centrul istoric al capitalei o să vă placă.",
-    "location": "Strada Smârdan 30, Centrul Vechi, București",
-    "price": "$$$",
-    "reviewObj": [
-      {
-        "reviewBody": "The place was overcrowded, no social distancing was possible, and waited for about 30 minutes for a simple food order.",
-        "reviewStars": 1
-      },
-      {
-        "reviewBody": "O experienta foarte dezamagitoare. Am ajuns si ne-au dat masa deja,dupa 20 de minute ne-au gasit masa,dupa inca 20 de minute ne-au mutat la alta masa. Am stat o ora,am comandat,asteptam comanda si ni s-a zis ca trebuie sa plecam pentru ca vine urmatoarea rezervare. Ni se anulase comanda fara sa stim!!! Pentru ca voiau sa plecam,dupa o ora si ceva de stat acolo! Dupa au pus un grup intreg de oameni la masa noastra si deabea dupa ceva timp ne-au zis ca putem sa ramanem la masa. Foarte,foarte nepoliticosi!",
-        "reviewStars": 1
-      }
-    ]
-  },
-  {
-    "title": "Aria TNB",
-    "images": [
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/3214/gallery/9794/conversions/80197225_2954861317905310_5448821835007262720_o-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/3214/gallery/9795/conversions/81282597_2960257910698984_8697474929504813056_o-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/3214/gallery/9792/conversions/78458408_2850203611704415_8898321494484975616_o-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/3214/gallery/9796/conversions/81649521_2966424996748942_2954186090824597504_o-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/3214/gallery/9793/conversions/79087086_2868520003206109_1976890720983711744_o-big.jpg"
-    ],
-    "description": "O poveste culturală teatrală care se prelungește pe terasa Teatrului Național cu o bucătărie internațională aleasă și un bar impresionat, Aria TNB oferă una dintre cele mai spectaculoase priveliști asupra capitalei.",
-    "location": "Bulevardul Nicolae Bălcescu 2, Universitate, București",
+    "description": "Situat in inima Bucurestiului, langa Casa Poporului, Ergo Restaurant este un loc cu totul si cu totul deosebit, atat prin locatie, design si ambianta, cat si prin meniul sau in totalitate fara gluten.Misiunea Ergo este de a surprinde clientii sai cu preparate delicioase ce acopera diferite obiceiuri si restrictii alimentare. Meniul gluten-free ofera optiuni vegane, vegetariane, preparate cu carne si peste, toate create cu scopul de a sustine o dieta si un stil de viata sanatoase.",
+    "location": "Bulevardul Unirii 5, Unirii, București",
     "price": "$$",
     "reviewObj": [
       {
-        "reviewBody": "Mancarea lasa putin de dorit dar daca vrei o cafea cu o priveliste misto e perfect!",
+        "reviewBody": "Serviciile sunt impecabile, mancarea este absolut delicioasa",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Servire OK, vinul Gitana Lupi, excelent, fileul de piept de rata caramelizat , gustos dar caramelizarea ar trebui sa fie facuta cu mai multa atentie, a provocat arsuri",
         "reviewStars": 4
-      }
-    ]
-  },
-  {
-    "title": "Le Bab",
-    "images": [
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/3142/gallery/9232/conversions/2-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/3142/gallery/9233/conversions/3-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/3142/gallery/9234/conversions/4-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/3142/gallery/9231/conversions/1-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/3142/gallery/9235/conversions/5-big.jpg"
-    ],
-    "description": "Proiectul de renaștere a kebabului Le Bab spune povestea unor pasionați de bucătăria tradițională din Orientul Mijlociu și din Asia de Sud, în timp ce utilizează tehnici moderne utilizate în bucătăriile cu stele Michelin. Rețetele sunt toate făcute cu ingrediente locale și sunt servite în pereche cu vinuri curate, beri artizanale și cocktail-uri.",
-    "location": "Calea Victoriei 12A, Centrul Vechi, București",
-    "price": "$$",
-    "reviewObj": [
-      {
-        "reviewBody": "Am fost impreuna cu iubitul meu si am avut o experienta foarte faina 😊 Personalul a fost extrem de amabil (ne-au oferit la final si o portie de crochete cu telemea din partea casei), iar mancarea foarte foarte buna. Preferatele noastre au fost Doner Beignet si Potato Skins, dar va recomandam sa testati cat mai multe pana va gasiti si voi preferatele. Noi deja stim ce comandam data viitoare 😊 Multumim!",
-        "reviewStars": 5
       },
       {
-        "reviewBody": "E o placere sa revin aici! Mancare delicioasa si servire impecabila.",
-        "reviewStars": 5
+        "reviewBody": "Localul este foarte cochet, meniul interesant. Ne-a plăcut per total, însă merită stele pentru că ni s-a greșit puțin comanda și pentru că a durat foarte mult, deși nu era foarte aglomerat. *Servesc doar Brunch pana la ora 4!*",
+        "reviewStars": 4
       },
       {
-        "reviewBody": "Mâncarea este o poveste în sine. Tot ce știam clasic e reinterpretat aici. Totul are gust, savoare, aromele se îmbină perfect în combinații surprinzătoare. Favoritul meu a fost un iaurt cu nuci prăjite si susan negru, îmblânzit cu ulei infuzat cu mărar si boabe de coriandru. :) Poftă bună!",
-        "reviewStars": 5
-      }
-    ]
-  },
-  {
-    "title": "Fork The Restaurant ",
-    "images": [
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/3710/gallery/15441/conversions/DSC_2466-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/3710/gallery/15437/conversions/20210505_194744-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/3710/gallery/15439/conversions/DSC_2337-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/3710/gallery/15436/conversions/20210504_182730-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/3710/gallery/15155/conversions/WhatsApp-Image-2021-03-24-at-16.46.01-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/3710/gallery/15440/conversions/DSC_2298-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/3710/gallery/15442/conversions/DSC_2555-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/3710/gallery/15444/conversions/fork2-(9-of-18)-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/3710/gallery/15445/conversions/DSC_2622-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/3710/gallery/15447/conversions/DSC_2754-big.jpg"
-    ],
-    "description": "După o poveste de succes cu Balvanyos Resort, Gastrolab și INdiVINO, Lorand și Zsuzsanna Szarvadi aduc conceptul de “gourmet tradițional” în inima Bucureștiului. Restaurantul gourmet Fork Ana Tower este rezultatul a peste 15 ani de călătorii culinare și cercetări amănunțite despre gastronomia de top. Este amenajat după un concept inedit, care duce mai departe îmbinarea autenticului românesc cu designul contemporan regăsite la Balvanyos Resort și Gastrolab și propune o experiență culinară fine dining de neuitat. Echipa de bucătari a fost atent selecționată pentru cel mai bun concept de fine dining din București. Restaurantul funcționează à la carte, având și meniuri de degustare, cu posibilitatea organizării de cine de degustare cu sau fără wine pairing, pentru grupuri selecte. Te așteptam cu un meniu spectaculos și o panoramă pe măsură asupra întregului oraș. Fork is the FUTURE of fine dining hospitality in Bucharest!+ VEZI MAI MULT",
-    "location": "Bulevardul Poligrafiei 1C, Herãstrãu, București",
-    "price": "$$$",
-    "reviewObj": [
-      {
-        "reviewBody": "Nu am mai fost demult intr-un local in care atat mancarea cat si serviciile si atmosfera/aspectul restaurantului sa fie la nivel maxim. Am servit fructe de mare dar si friptura de miel si porc + desert. Imi este greu sa spun care au fost cele mai gustoase. Pot spune insa ca ma voi intoarce oricand cu placere la Fork in Ana Tower.",
-        "reviewStars": 5
-      },
-      {
-        "reviewBody": "Delicious food, amazing view, nice service overall. I trully recommend!",
+        "reviewBody": "Mancare, servicii, atmosfera, totul a fost perfect! Cu siguranta vom reveni.",
         "reviewStars": 5
       }
     ]
@@ -120,72 +54,712 @@
     "price": "$$",
     "reviewObj": [
       {
-        "reviewBody": "As fi drit sa va dau detalii despre mancare, atmosfera.... dar din pacate la \"Le Boutique\" nu sunt respectate rezervarile. Rezervarea a fost facuta pentru terasa dar cand am ajuns acolo ni s-a spus ca nu sunt locuri pe terasa pentru ca este un eveniment. Domnilor de la \"Le Boutique\" incercati sa va tratati clientii egal. Aveati nr.de telefon. Daca va dadeati putin interesul sunati si va cereati scuze si intrebati daca totusi dorim sa stam inauntru. Si am fi stat. Dar se pare, ca este prea greu....",
-        "reviewStars": 1
-      },
-      {
-        "reviewBody": "Restaurantul are un design foarte drăguț, iar mâncarea nu a dezamăgit nici ea absolut deloc.",
+        "reviewBody": "Atmosfera este primitoare, intr-un spațiu decorat modern si cu gust. Personalul este primitor, terasa este racoroasa si numai buna pentru a te retrage in zilele calduroase, alaturi de o bautura rece. De asemenea, recomandam mancarea gatita de ei.",
         "reviewStars": 5
       },
       {
-        "reviewBody": "Localul este cochet si servirea este buna, insa nu l-as recomanda pentru faptul ca fumatorii nu sunt separati de nefumatori si de acest lucru nu afli decat atunci cand ajungi acolo. Fumatorilor li se permite sa fumeze in spatiul comun.",
-        "reviewStars": 1
-      },
-      {
-        "reviewBody": "Very nice place, cute decoration, family/couple friendly, good prices and parking options around. Totally would recommend that!",
+        "reviewBody": "Totul la superlativ! Mancare excelenta, bauturi deosebite si atmosfera frumoasa. Revenim cu drag de fiecare data!",
         "reviewStars": 5
       },
       {
-        "reviewBody": "Un loc foarte dragut si primitor. Personal foarte amabil. Mancarea buna. De recomandat.",
+        "reviewBody": "Platoul de fructe de mare a foarte buna,toate deserturile prezente in meniu la inaltime si personalul de nota 10!Recomand⭐️⭐️⭐️⭐️⭐️",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "A fost o seara foarte frumoasa, am avut muzica live - un pic cam tare, insa melodiile pe gustul nostru au anulat acest inconvenient si au completat foarte bine seara. Mancarea a fost buna, somonul in crusta de alune a fost delicios. Servirea ok, atmosfera nemaipomenita, vinul rece ... reteta succesului :)!",
         "reviewStars": 5
       }
     ]
   },
   {
-    "title": "Fior di Latte",
+    "title": "Aria TNB",
     "images": [
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/2396/gallery/6303/conversions/15622694_1058454367634397_7747946615895998414_n-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/2396/gallery/6304/conversions/15894435_1069485233197977_3888516563186564869_n-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/2396/gallery/6305/conversions/15975076_1083673825112451_3624345950661045862_o-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/2396/gallery/6306/conversions/15995141_1073561392790361_7675482442565394528_o-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/2396/gallery/6307/conversions/16427254_1090073054472528_3412725504097216180_n-big.jpg"
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3214/gallery/9794/conversions/80197225_2954861317905310_5448821835007262720_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3214/gallery/9795/conversions/81282597_2960257910698984_8697474929504813056_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3214/gallery/9792/conversions/78458408_2850203611704415_8898321494484975616_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3214/gallery/9796/conversions/81649521_2966424996748942_2954186090824597504_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3214/gallery/9793/conversions/79087086_2868520003206109_1976890720983711744_o-big.jpg"
     ],
-    "description": "Fiecărui oaspete al bistroului, consistența preparatelor - moale, cremoasă, crocantă, pufoasă, afânată, densă, aerată, fluidă, nisipoasă, catifelată - îi provoacă aducerile aminte. Starea de bine, sentimentul de confort, de casă primitoare la care să te întorci, pentru a te regăsi, Fior di Latte este cu siguranță un loc unde te vei simți cu adevărat răsfățat. Bucătăria italiană, nu foarte sofisticată, în schimb desăvârșită ca gust și texturi, completată de deserturile perfecte, te vor face să te reîntorci în această oază cu bunătăți.",
-    "location": "Bulevardul Primaverii 19-21, Primãverii, București",
-    "price": "$$$",
-    "reviewObj": []
-  },
-  {
-    "title": "Restaurant DaDa",
-    "images": [
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/1372/gallery/3039/conversions/whatsapp_image_2019_03_01_at_19.36.31_11-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/1372/gallery/13115/conversions/108841740_3406161582749880_3813661693263325687_o-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/1372/gallery/3040/conversions/dada_77-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/1372/gallery/13116/conversions/117774332_3500413139991390_4007282316341334226_o-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/1372/gallery/3041/conversions/whatsapp_image_2019_03_01_at_19.36.32_12-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/1372/gallery/13114/conversions/105971697_3381355771897128_78017953429493634_o-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/1372/gallery/3042/conversions/whatsapp_image_2019_03_01_at_19.36.31_10-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/1372/gallery/13117/conversions/120661924_3682871621745540_4280702094500425417_n-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/1372/gallery/3043/conversions/whatsapp_image_2019_03_01_at_19.36.31_8-big.jpg"
-    ],
-    "description": "Un restaurant sofisticat cu un decor avangardist, atmosferă caldă și un lounge bar modern se găsesc în curtea din zona Iancului. Locul este potrivit pentru o pauză de cafea, un prânz de afaceri sau o cină romantică. Meniul se schimbă în fiecare sezon, iar DADA manifesto este “the whole world on a plate”.",
-    "location": "Strada Matei Voievod 94 bis, Iancului, București",
+    "description": "O poveste culturală teatrală care se prelungește pe terasa Teatrului Național cu o bucătărie internațională aleasă și un bar impresionat, Aria TNB oferă una dintre cele mai spectaculoase priveliști asupra capitalei.",
+    "location": "Bulevardul Nicolae Bălcescu 2, Universitate, București",
     "price": "$$",
     "reviewObj": [
       {
-        "reviewBody": "Cu adevarat un loc inedit, descoperit din intamplare (si din fericire), unde am sa revin cu siguranta. Wok-ul cu vita, demential - must try!Terasa superba, atmosfera placuta si linistita, servirea ireprosabila.Big like, DaDa!",
+        "reviewBody": "Vara, poti sta doar dupa apusul soarelui. Daca vrei sa mergi mai devreme, ia-ti un evantai si o palarie 😊",
+        "reviewStars": 4
+      },
+      {
+        "reviewBody": "Servire ireproșabilă: staff-ul foarte atent și amabil.Scad o stea pentru mâncare: am încercat ambele supe - de roșii și cea cu fructe de mare, ambele dezamăgitoare, fără gust.Preparatele de la felul II si deserturile ne-au plăcut, au fost bune 👍",
+        "reviewStars": 4
+      }
+    ]
+  },
+  {
+    "title": "Nomad Skybar",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/421/gallery/16028/conversions/Nomad-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/421/gallery/16029/conversions/nomad2-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/421/gallery/16030/conversions/nomad3-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/421/gallery/13309/conversions/117714789_4181878225215954_7877562579045727251_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/421/gallery/13316/conversions/122035347_4504996852904088_7241224950996414233_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/421/gallery/13314/conversions/121197735_4467958586607915_5967502301072408895_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/421/gallery/13319/conversions/103069153_3879255288811584_8395248221303078912_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/421/gallery/13312/conversions/120195837_4387684374635337_3528917781792484907_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/421/gallery/13311/conversions/119697310_4349534065117035_5138886651055622788_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/421/gallery/13315/conversions/121799895_4504997179570722_6507111341967120863_o-big.jpg"
+    ],
+    "description": "Accesul nu este permis persoanelor sub 21 de ani.Vineri primim rezervări de 2-3 persoane doar în intervalul 16:00 - 19:00Sâmbătă primim rezervări de 2-3 persoane doar in intervalul 12:00 - 19:00 Pentru programul de vineri/sâmbătă, începând cu ora 21:00, mesele sunt rezervate cu o consumație minimă impusă, calculată începând cu ora 21:00 astfel: - masa de 6 persoane - consumație minimă 600 lei; - masa de 10 persoane - consumație minimă 1000 lei.Rezervările la Nomad Skybar se fac implicit pentru o durată de 3 ore.Dacă aveți alte preferințe, vă rugăm să ne specificați în câmpul de comentarii.Nu este permis accesul cu produse din exterior (putem oferi optiuni pentru torturi)Situat la mansarda unei clădiri istorice din Centrul Vechi, Nomad te surprinde în primul rând cu designul, pornind de la tavanul integral de sticlă, apoi decorul eclectic, cu mese joase și tapițerii colorate. Meniul elaborat de cocktails completează propunerile culinare, cu influențe din marile bucătării ale lumii. Accentele italienești, franțuzești, americane și asiatice sunt regăsite în meniu. Serile sunt animate de DJ sets sau de concerte live, iar priveliștea spre centrul istoric al capitalei o să vă placă.+ VEZI MAI MULT",
+    "location": "Strada Smârdan 30, Centrul Vechi, București",
+    "price": "$$$",
+    "reviewObj": [
+      {
+        "reviewBody": "Not so great. Am comandat un cocktail care era trecut in meniu cu menta proaspata si nu era mentionat nimic de ghimbir. Am primit o bautira fara menta, doar cu gist de ghimbir. Mi s-a spus ca nu mai au menta desi am vazut contrariul (multi alti oameni avea bautiri cu menta). Berea de ghimbir care era un ingredient principal in cocktail nu era trecut pe lista de ingrediente,desi era trecut la alte bauturi",
+        "reviewStars": 2
+      },
+      {
+        "reviewBody": "Chiar daca au intampinat o problema tehnica cu electricitatea, atmosfera creata de lumanari si personalul grijuliu a fost minunata.",
         "reviewStars": 5
       },
       {
-        "reviewBody": "Totul la superlativ! O locatie potrivită chiar și in vremurile de pandemie și unde doamnele iubitoare de frumos pot pleca și cu un suvenir deosebit(https://dada.ro/ - puteți vedea modelele expuse in restaurant).",
+        "reviewBody": "Oribil, nici nu am rămas. După ce au confirmat ca am masa rezervată pe terasa, când am ajuns acolo m-au pus pe balconul de la bar cu scaune înalte și tejghea, spunând ca nu mai au locuri libere, fapt pt care am plecat.Urat!!!!!!",
+        "reviewStars": 1
+      }
+    ]
+  },
+  {
+    "title": "5ENSI",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2834/gallery/9831/conversions/0-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2834/gallery/9832/conversions/2-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2834/gallery/9835/conversions/6-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2834/gallery/9833/conversions/4-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2834/gallery/9834/conversions/5-big.jpg"
+    ],
+    "description": "Va rugam sa aveti in vedere faptul ca mesele sunt rezervate pentru doua ore. La noua „braserie senzorială” deschisă de BeanZ Café te poți bucura, alături de o cafea de specialitate, de o masă care te va purta în toate colțurile lumii.Călătoria poate începe în Indonezia, cu frigăruile de pui picante satay, într-un curry cremos cu lapte de cocos. Oprește-te apoi în Orientul Mijlociu, pentru Siniya – un amestec de vită, vinete, roșii și sos de tahini, toate sub o pătură de aluat. Sau la Mediterană, pentru un kebab ușor cu pește, salată de vinete și salsa. La final, încearcă Sin of Buenos Aires, un desert ispititor cu parfait de dulce de leche, dulce și ușor sărat. Cât despre băuturi, recomandăm revigorantul Tonic Society, cafea infuzată la rece în Aeropress, rozmarin și apă tonică.+ VEZI MAI MULT",
+    "location": "Bulevardul Aviatorilor 8A, Victoriei, București",
+    "price": "$$$",
+    "reviewObj": [
+      {
+        "reviewBody": "Foarte rapid si facil, chiar aveam nevoie atunci cand am rezervat. Merci ca existati?",
         "reviewStars": 5
       },
       {
-        "reviewBody": "Un restaurant excelent, servirea impecabila, mancarea delicioasa , recomand cu drag!",
+        "reviewBody": "Mancarea a fost foarte buna, portia mare, am incercat doua tipuri de noodles si vrem sa mai testam si altceva pe viitor, iar personalul foarte placut.",
         "reviewStars": 5
       },
       {
-        "reviewBody": "Toate lucrurile si toti oamenii de acolo de nota 10! Cu siguranta revenim!",
+        "reviewBody": "Locatia este excelenta! Pentru Micul Dejun este un restaurant foarte bun!",
+        "reviewStars": 4
+      }
+    ]
+  },
+  {
+    "title": "Terasa Florilor",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/831/gallery/2093/conversions/terasa_florilor_5-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/831/gallery/15852/conversions/158195589_3748925865193743_2727932499130951999_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/831/gallery/15850/conversions/147925208_3674067456012918_1982601532215617721_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/831/gallery/15849/conversions/160004791_3765158443570485_2606730743783491950_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/831/gallery/15848/conversions/159666588_3762644917155171_8171845660286888160_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/831/gallery/15851/conversions/179216798_3899915566761438_2291993138802920331_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/831/gallery/15853/conversions/137268967_3594695903950074_5988891279560863314_n-(1)-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/831/gallery/15854/conversions/186224970_3949618305124497_8237017750317281485_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/831/gallery/2097/conversions/terasa_florilor_8_1_-big.jpg"
+    ],
+    "description": "Terasa Florilor e un local care gravitează în jurul evenimentelor pe care le organizează, de la concerte live la numere de standup comedy, toate asezonate cu un meniu divers pentru toate gusturile. Tips: preparatele la grătar sunt făcute pe cărbune.",
+    "location": "Strada Ion Maiorescu 42, Obor, București",
+    "price": "$$",
+    "reviewObj": [
+      {
+        "reviewBody": "Loc minunat, mâncare bună și prețuri decente. Servire ireproșabilă.",
+        "reviewStars": 5
+      }
+    ]
+  },
+  {
+    "title": "Lente Arcului",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/339/gallery/1237/conversions/20664475_1980155212270858_2525971175469445797_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/339/gallery/15834/conversions/68597452_2459031177497655_110450113423343616_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/339/gallery/1238/conversions/36273443_2146501262302918_5950669839918956544_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/339/gallery/15838/conversions/128312026_3612634518803976_597419952071557389_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/339/gallery/15837/conversions/127534277_3614905228576905_2461198894389633547_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/339/gallery/1239/conversions/33403110_2122204684732576_5885377897409019904_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/339/gallery/15835/conversions/123397941_3527098684024227_6171558431225120686_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/339/gallery/1240/conversions/arcului_primavara_2018_11-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/339/gallery/15836/conversions/125205911_3574057569328338_8873805182352017335_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/339/gallery/1241/conversions/arcului_primavara_2018_8-big.jpg"
+    ],
+    "description": "Una dintre cele mai vechi locuri de petrecere a timpului liber din București, Lente este mai mult decât un restaurant cu meniu street food reinterpretat. Loc de joacă și pentru copii și pentru adulți, câteodată spațiu de evenimente, însă totdeauna un loc cu o energie aparte, care inspiră și te inspiră.",
+    "location": "Strada Arcului 8, Moșilor, București",
+    "price": "$$",
+    "reviewObj": [
+      {
+        "reviewBody": "Gradina de vara cu mancare buna, atmosfera relaxanta si bauturi interesante.",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Am ales aceasta locatie pentru a-mi sarbatori ziua de nastere alaturi de cateva persoane dragi, si nu regret decizia luata. Mancarea a fost delicioasa, servirea rapida si atmosfera minunata, atat in interior cat si in exterior (am stat la inceput in gradina, iar apoi ne-am mutat inauntru din cauza ploii). A fost prima data cand am vizitat localul, insa cu siguranta ma voi intoarce curand!",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Mancare, servire, locatie, muzica si atmosfera impecabile. Voi reveni cu drag.",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Am stat la terasa de afara, care este foarte verde si draguta. Ospatarul foarte amabil si serviabil. Am mancat paste si o specialitate vegetariana cu cous cous si legume. Cea cu cous cous cam fada fara sos.",
+        "reviewStars": 4
+      }
+    ]
+  },
+  {
+    "title": "Mântuleasa 40",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1650/gallery/3700/conversions/13935043_1078911452202561_1213746301348364380_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1650/gallery/13185/conversions/121814946_3418229018270781_4245600603213308842_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1650/gallery/3701/conversions/13669615_1068323526594687_3399018539925302079_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1650/gallery/13187/conversions/122509482_3427491704011179_6084793518925422361_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1650/gallery/3702/conversions/13680749_1071628232930883_1425596546599555438_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1650/gallery/13182/conversions/119586624_3308908189202865_4262012577233663778_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1650/gallery/13183/conversions/120725633_3369828259777524_5207223860011369842_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1650/gallery/13184/conversions/121327247_3396892377071112_5187557983568726956_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1650/gallery/13186/conversions/122431363_3424950170931999_2597886288450163237_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1650/gallery/3703/conversions/13439176_1083628311730875_7073025682137035738_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1650/gallery/3704/conversions/13754418_1064222597004780_2774601894058378152_n-big.jpg"
+    ],
+    "description": "O redescoperire a plăcerilor tihnite ale unei mese bune în oraș alături de cei dragi este promisiunea făcută de Mântuleasa 40. Fie că este vorba de mic dejun, prânz sau cină, atmosfera intimă și prietenoasă alături de preparate cu specific tradițional românesc precum și cu delicii din bucătăria internațională.",
+    "location": "Strada Mântuleasa 40, Moșilor, București",
+    "price": "$$",
+    "reviewObj": [
+      {
+        "reviewBody": "Mâncare bună, atmosferă plăcută. Recomand tort moussede ciocolata.",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Un loc fain, cu atmosferă plăcută, personal amabil, profi :)Am servit tigaie picanta de pui și a fost delicioasă. Partenerul a mâncat quesadillas și recunosc, am gustat și eu. Merită toți banii. Mai venim cu drag.",
+        "reviewStars": 5
+      }
+    ]
+  },
+  {
+    "title": "Switch.eat",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/637/gallery/1754/conversions/img_2671-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/637/gallery/1755/conversions/img_2940_2-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/637/gallery/1756/conversions/img_2903_2-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/637/gallery/1757/conversions/img_2663-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/637/gallery/1758/conversions/switch-eat-2381-big.jpg"
+    ],
+    "description": "Switch Eat este o alternativă la agitația orașului, un loc care îți deschide ușa pentru a te lăsa să intri într-o lume unde te poți deconecta de tot ceea ce te înconjoară. Aici poți să bei cea mai bună cafea din oraș, sau spațiul în care tu și prietenii tăi petreceți ore povestind la o sticlă de vin sau o halbă de bere, neapărat însoțite de o masă delicioasă. Meniul este internațional, oferind o călătorie prin toată lumea, însă cu noutăți săptămânale. De la aperitive, burgeri și sandvișuri, la salate, steaks și deserturi, Switch Eat este o alernativă potrivită pentru pauză.+ VEZI MAI MULT",
+    "location": "Strada Horei 34, Foișorul de Foc, București",
+    "price": "$$",
+    "reviewObj": [
+      {
+        "reviewBody": "Burgerul swich eat și cartofii deliciosi! Merită să-i încercați.",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Foarte frumi si mancarea misto! Personal amabil si zambitor. Mai venim!",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Mi-a placut foarte mult localul. Are un aer fresh si jucaus. Meniul avea preturi foarte ok iar mancarea a fost delicioasa! Am stat pe terasa si ne-am simtit super.Vom reveni cu siguranta!Va multumim!",
+        "reviewStars": 5
+      }
+    ]
+  },
+  {
+    "title": "Kaufland PopUp Restaurant [at] Si-Lounge",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3268/gallery/10440/conversions/gal_4-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3268/gallery/12863/conversions/89423709_578480832748982_515824021766406144_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3268/gallery/10442/conversions/im2-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3268/gallery/12864/conversions/76608754_499258597337873_1536776187982905344_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3268/gallery/10439/conversions/im3-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3268/gallery/12866/conversions/74615546_499256964004703_7496588548691197952_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3268/gallery/10441/conversions/im1-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3268/gallery/12865/conversions/72124358_499258667337866_1155839166085332992_o-big.jpg"
+    ],
+    "description": "Odată cu venirea toamnei, te poți bucura din nou de conceptul exclusiv pentru toți. Am redeschis Kaufland PopUp! restaurant, locul unde mâncarea bună aduce oamenii împreună. Te așteptăm să încerci preparate gourmet și să te bucuri de o experiență deosebită într-o locație amplasată în mijlocul zonei business Pipera. Iar partea cea mai interesantă este că tu vei plăti doar costul ingredientelor din rețete, ca și cum ar fi fost cumpărate din Kaufland.",
+    "location": "Strada George Constantinescu 2-4, Pipera, București",
+    "price": "$",
+    "reviewObj": [
+      {
+        "reviewBody": "Mancarea este foarte gustoasa, inovatoare si buna!Atmosfera este draguta.Un loc in care te poti relaxa cu prietenii.",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Mancarea delicioasa, pacat ca in restaurant sunt 6-7 pisici care deranjeaza. Sincer, nu inteleg cum de pisicile sunt in elementui lor, iar noi oaspetii trebuie sa ne ferim se ele",
+        "reviewStars": 4
+      }
+    ]
+  },
+  {
+    "title": "Beca's Kitchen",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/217/gallery/1034/conversions/becas-kitchen-1095-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/217/gallery/1035/conversions/becas-kitchen-1101-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/217/gallery/1036/conversions/becas-kitchen-1096-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/217/gallery/1037/conversions/becas-kitchen-1097-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/217/gallery/1038/conversions/becas-kitchen-1104-big.jpg"
+    ],
+    "description": "Beca’s Kitchen se află aproape de Piaţa Romană, pe str. Mihai Eminescu. Numele îi vine de la Andreea Beca – ea e creatoarea răsfăţurilor culinare pe care le puteţi savura în acest simpatic spaţiu. Promisiunea Beca’s este de a servi mâncare gustoasă, sănătoasă, făcută cu mult drag, folosind ingredinte simple. Bistroul este destul de micuţ, dar amenajat cochet şi aerisit, cu mult bun gust. Nu este însă un loc pretenţios, dimpotrivă. Luminat plăcut, cald, cu muzică relaxantă.",
+    "location": "Strada Mihai Eminescu 80, Armenească, București",
+    "price": "$$",
+    "reviewObj": [
+      {
+        "reviewBody": "Mancare senzationala, servire friendly si foarte amabila. Asa ar trebui sa fie toate restaurantele. Recomand cu mare drag!",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "mâncare bună, personal drăguț, locație plăcută, mai venim ❤️",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "De fiecare dată când trecem pragul de la Beca, parcă suntem acasă la o bună si veche prietenă. Atmosfera e minunată, zâmbetele sunt sincere și mâncarea e mereu surprinzătoare în cel mai apetisant sens.",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Mancarea a fost excelenta, la fel ca si servirea, iar localul este foarte primitor, micut, intim, atmosfera si muzica foarte placute. Mai mergem!",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Atmosfera foarte cozy si aerisita, iar mancarea a fost delicioasa.",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "A fost a doua oara la Beca's si am fost la fel de incantata de loc, de primire, de servire si mai ales de mancare. Gusturi suprinzatoare, totul proaspat si apetisant. Felicitari!",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Nimic care sa nu fie de nota 10! Sunteti minunati iar pastele cu creveti sunt cele mai bune pe care le-am mancat!",
+        "reviewStars": 5
+      }
+    ]
+  },
+  {
+    "title": "Journey Pub",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/983/gallery/2379/conversions/1._terasavararazesoare-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/983/gallery/15829/conversions/117081888_3282750628435454_5071728247744662886_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/983/gallery/2380/conversions/2._terasa_rainy-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/983/gallery/15830/conversions/117600396_3318309998212850_6616539360696241462_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/983/gallery/2381/conversions/4._pubbaloanelighted-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/983/gallery/15831/conversions/118001891_3330110913699425_5123794613304658369_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/983/gallery/2382/conversions/5._skydomepanorama-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/983/gallery/15832/conversions/123770212_3566859386691242_8381981832946441038_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/983/gallery/2383/conversions/3._terasapereteflori-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/983/gallery/15833/conversions/116193895_3261098757267308_6546964854709860340_n-big.jpg"
+    ],
+    "description": "Journey este pub-ul special creat pentru a reda atmosfera relaxată a călătoriilor celor care îi trec pragul - de la designul celor patru saloane și tricourile ospătarilor, până la meniurile-valiză care găzduiesc o întreagă colecție de rețete de pe alte meridiane. Meniul Journey Pub este unul internațional. Pe lângă explozia de gusturi și arome, la Journey veți găsi o terasă deschisă tot anul, plină de verdeață și climatizată, o serie de evenimente infuzate de spiritul de călătorie și un spațiu dedicat board game-urilor.",
+    "location": "Strada George Enescu 25, Piața Romană, București",
+    "price": "$$",
+    "reviewObj": []
+  },
+  {
+    "title": "Kané - New Romanian Cuisine",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3174/gallery/11020/conversions/Kane_panoramic-terasa-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3174/gallery/11024/conversions/Kane-dish-2-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3174/gallery/11025/conversions/detaliu-terasa-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3174/gallery/11023/conversions/Kane_dish-1-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3174/gallery/11019/conversions/Kane_surprize-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3174/gallery/11022/conversions/Kane_dish-3-big.jpg"
+    ],
+    "description": "Kane is an illustration, in various forms, of what contemporary Romanian creativity stands for. Our restaurant promises a memorable exploration of tastes based solely on local Romanian ingredients that have been skilfully combined to bring out very surprising flavors. A culinary experience highlighted by the setting of our new home one of the most iconic buildings in Bucharest. Part of the identity of Kane is the interior of the house which was rebuilt to reflect what happens when you invite craftsmen to be progressive and bring their craft into modernity. Arrive curious, open-minded and willing to explore and we will not let you down.+ VEZI MAI MULT",
+    "location": "Strada Dianei 9, Universitate, București",
+    "price": "$$$",
+    "reviewObj": [
+      {
+        "reviewBody": "Eating,drinking, atmosphere and service perfect. We will definitely come back! Thanks for the great evening!",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "E un restaurant fine dinning cu oameni foarte prietenoși. Eu mănânc vegan și au fost foarte drăguți să gătească pt mine.",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "We had an amazing evening at KANE. from starters to Desserts, we were amazed at the quality and originality of the dishes. Special mention for the \"Chicken like never before'. A Huge thank you to their Sommelier who took us to a wonderful journey throughout Romania, explaining everything to us ! We strongly reommend to take the Wine pairing :)",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "One of the best dining experiences we've ever had. Every bite of food was plated and presented beautifully and the taste was beyond amazing. The wine pairing elevated to even another level. Thank youSursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Outstanding. 5 stars all the waySursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "The food is scarce and the prices a bit too high for what they're offering.Sursa: Google",
+        "reviewStars": 2
+      },
+      {
+        "reviewBody": "Amazing! No Regrets!I came during brunch and had the Seabass with muscles, and the chicken pate. This was by far my food highlight of my time in Bucharest. Service was amazing, location is in a residential area. Very clean and modern. You won’t regret giving this place a try.Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Great place to meet and catch up with friends. The bill was reasonable I would say.Sursa: Google",
+        "reviewStars": 5
+      }
+    ]
+  },
+  {
+    "title": "Noeme (Guxt)",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1159/gallery/10227/conversions/2X0A9997-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1159/gallery/15583/conversions/4-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1159/gallery/10226/conversions/_DSC4283-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1159/gallery/15580/conversions/2-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1159/gallery/10229/conversions/B0000963-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1159/gallery/10230/conversions/B0001003-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1159/gallery/15581/conversions/3-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1159/gallery/15582/conversions/1-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1159/gallery/10228/conversions/B0000790-(1)-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1159/gallery/10225/conversions/_DSC4334-big.jpg"
+    ],
+    "description": " Trei surori si un restaurant. Mai intai a fost Bistro Guxt, restaurantul in care timp de 2 ani am vrut sa vedem ce se intampla cand pasiunea dintr-un hobby devine ingredientul principal al unui business. Si pentru ca a iesit ceva bun si multor oameni le-a placut am decis sa ducem totul la un nivel care sa ne reprezinte identitatea si valorile noastre. Bistro Guxt s-a dat de trei ori peste cap si a aparut Noeme, un restaurant cu o bucătărie rafinată neastâmpărată, prin care ne propunem să aducem mai multă relaxare pe scena de fine dining din Capitală. Aceeasi echipa in care fiecare dintre noi crede in sustenabilitate si responsabilitatea pentru oameni, mediu inconjurator si ingrediente. Noua noastra casa este o vilă istorică cu o arhitectură în stil eclectic, situată in cartierul evreiesc.+ VEZI MAI MULT",
+    "location": "Strada Anton Pann 29, Unirii, București",
+    "price": "$$$",
+    "reviewObj": [
+      {
+        "reviewBody": "Excelent! Daca vrei sa ai parte de o experienta culinars inedita care iti va trezi toate simturile, this is the place to go.",
+        "reviewStars": 5
+      }
+    ]
+  },
+  {
+    "title": "Edo Sushi & Garden Restaurant",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1927/gallery/4707/conversions/14379688_1142825579140141_5249645825275943306_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1927/gallery/4708/conversions/_gin9596-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1927/gallery/4709/conversions/_dsc3123_800x534_-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1927/gallery/4710/conversions/13669271_1034762593297832_5231353365108117284_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1927/gallery/4711/conversions/13724937_1034762656631159_1986659515361989766_o-big.jpg"
+    ],
+    "description": "Edo Sushi & Garden este unul din cele mai bune restaurante cu specific japonez din București. Construind pe o tradiție de aproape 400 de ani (sushi-ul a fost inventat în era Edo, prin secolul XVII), Edo Sushi București împrumută din liniștea Japoniei și îi conferă un aer ușor occidental prin preparate ca Nigiri cu somon, un fel de mâncare creat de norvegieni prin anii '80 și adoptat ulterior și de japonezi. Grădina și restaurantul sunt deschise zilnic între 13:00 și 24:00, mai puțin marți, când programul începe de la ora 15.00 și se termină la 24.00",
+    "location": "Strada Știrbei Vodă 84A, Știrbei, București",
+    "price": "$$",
+    "reviewObj": []
+  },
+  {
+    "title": "Restaurant El Pato",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2471/gallery/13144/conversions/79205719_2536487580008131_6853919900562358272_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2471/gallery/13147/conversions/87325008_2602873503369538_5762495464276492288_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2471/gallery/13145/conversions/79214497_2536487593341463_2004399445348712448_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2471/gallery/13148/conversions/108227436_2738388426484711_2667004496327040962_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2471/gallery/13146/conversions/87149369_2602873390036216_1889402559286738944_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2471/gallery/13149/conversions/120929259_2823366144653605_7816985414647448930_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2471/gallery/6548/conversions/16708643_1806854082971488_1019149884796978951_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2471/gallery/6550/conversions/18425505_1862969297359966_5990899903301149827_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2471/gallery/6549/conversions/16640673_1806854106304819_3571469849620770222_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2471/gallery/6551/conversions/22309001_1947885485535013_5376439328038054978_n-big.jpg"
+    ],
+    "description": "Cunoscut publicului pentru diversitatea preparatelor din carne de rață, El Pato este unul dintre locurile care deși aflate în inima orașului, oferă liniște, fiind un loc plăcut pentru întâlnirile de orice fel. Mai mult, meniul divers pune în valoare serviciile de cea mai bună calitate și preparate pline de savoare.",
+    "location": "Strada Dionisie Lupu 48, Piața Romană, București",
+    "price": "$$",
+    "reviewObj": [
+      {
+        "reviewBody": "Ca de obicei, totul la superlativ. Mancarea delicioasa, servirea cu atentie, pacat a fost foarte cald, dar asta doar barbosul o poate rezolva ...",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Senzațional, mâncare, servire, ambianta, totul la superlativ",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Mancare foarte buna! Recomand platou cu fructe de mare. Revenim!",
+        "reviewStars": 5
+      }
+    ]
+  },
+  {
+    "title": "Zeppelin",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/478/gallery/13133/conversions/97158407_2539394772950821_7399960799667552256_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/478/gallery/13136/conversions/121827284_2666168606940103_5379009595214094632_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/478/gallery/1509/conversions/zeppelin-1951-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/478/gallery/1510/conversions/zeppelin-1952-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/478/gallery/13135/conversions/121542770_2664233373800293_1729575020402836620_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/478/gallery/13134/conversions/120105058_2647501125473518_2228136931215299270_n-big.jpg"
+    ],
+    "description": "La Zeppelin Pub, pasiunea noastra pentru bere o impartim cu toti cei care ne calca pragul. De cand am deschis am incercat sa aducem sortimente de bere care sa satisfaca aproape toate gusturile. Multumita cunoscatorilor de bere si clientilor fideli, Zeppelin Pub a devenit un bar foarte popular si cautat in Bucuresti. Promitem ca in anii ce vin sa ramanem la fel de buni si aproape de voi.",
+    "location": "Strada Marin Serghiescu 7, Armenească, București",
+    "price": "$",
+    "reviewObj": [
+      {
+        "reviewBody": "Unul dintre cele mai primitoare baruri, ca de obicei. Selectie mare de bere, pisici civilizate si o terasa intima.",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Great pub close to the center of Bucharest. Good selection of beers (romanian and international) and rock music.Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Great place for a drink but unfortunately a bit smallSursa: Google",
+        "reviewStars": 4
+      },
+      {
+        "reviewBody": "Great time here. Good selection of non-beers for me & plenty of beers for him! Staff great too and good classic rock tunes. Good outdoor, covered seating with heaters. Thoroughly recommendSursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Great vibe, friendly staff.Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Your good old friendly neighbor beer bar.Sursa: Google",
+        "reviewStars": 4
+      }
+    ]
+  },
+  {
+    "title": "Miss Alé",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3334/gallery/11126/conversions/82376160_151388439785561_1382683241122627584_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3334/gallery/11127/conversions/110195364_166079851649753_6367110114051243060_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3334/gallery/11134/conversions/79496538_151543966436675_2398289749308604416_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3334/gallery/11128/conversions/108202553_165156798408725_2120285651846755894_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3334/gallery/11135/conversions/87947318_116128433311562_5839413535364349952_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3334/gallery/11129/conversions/108139501_164922191765519_3059551893134607276_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3334/gallery/11133/conversions/106017470_158438465747225_8420093821525581584_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3334/gallery/11130/conversions/109724206_164876168436788_1848850318608317694_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3334/gallery/11131/conversions/107932844_163017208622684_2201015417728084668_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3334/gallery/11132/conversions/106927336_162974681960270_1069631086638307872_o-big.jpg"
+    ],
+    "description": "Miss Alé este o poveste urbană care începe cu cafeaua de specialitate care se îmbină cu mixologia, vinilurile, obiectele de design interior și gastronomia. Conceput ca un hub cultural, locul a devenit un punct de atracție pentru creativi și nu numai.",
+    "location": "Strada Constantin F. Robescu 2, Universitate, București",
+    "price": "$$",
+    "reviewObj": [
+      {
+        "reviewBody": "Un loc foarte primitor. Stafful foarte dragut, mancare foarte buna, atmosfera f placuta. Plusul este da si de vinilurile/ilustratiile pe care le poti cumpara 💚 lovely place. Cu siguranta vom reveni.",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "O locatie foarte draguta, linistita si foarte colorata. Au cocktailuri foarte bune, astazi am incercat Massimo si a fost grozav si mancarea a fost gustoasa, am avut ocazia sa mananc o quesadilla cu avocado si branzeturi, foarte delicioasa.",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Best burger we’ve had in Bucharest. Friendly staff, reasonable prices, good drink selection. Highly recommend. Thinking of coming back to try sour-dough sandwiches...Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "A high quality bistro with a chic design and cozy, positive vibes all around! The perfect place for a late evening first date, a brunch with your bestie or just a morning coffee with your laptop.The staff are super friendly and their menu is always fresh and intriguing.This is the perfect place if you're looking for something new !Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "If you're looking for good specialty coffee drinks, amazing food and cocktails, art, music and plants, this place is for you.The design is very nice and cozy and they are very friendly.PS: dogs allowed.Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Very nice and cosy place with plenty of brunch options and extremely good coffee. The music selection is good and you can enjoy both indoor seating and an outdoor terrace.Why not 5 stars? I wasn't too impressed with the food options on my second visit. I had the grilled cheese sandwich on my first visit and my friend had a tomato soup and we both loved our meal. However, on my second visit, we tried the pulled turkey sandwich and \"the prince\" (the one with cabbage) and neither were great - the bread was amazing, but the sandwiches were very dry and cold. We also had the waffles for dessert and I was disappointed to see they replaced the ricotta in the menu with peanut butter without warning us. I will give it another chance because the staff is really nice and our first experience was amazing, but I'd advise you to steer clear of the two sandwiches above.Sursa: Google",
+        "reviewStars": 4
+      },
+      {
+        "reviewBody": "Nice place with good food and good coffee. They do have interesting things that you can buy, other than foodSursa: Google",
+        "reviewStars": 5
+      }
+    ]
+  },
+  {
+    "title": "Abel's Wine Bar and More",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/782/gallery/1984/conversions/18813337_1715398118475796_3256782299263203501_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/782/gallery/1985/conversions/10256774_1095773843771563_2966362166853849874_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/782/gallery/1986/conversions/1390764_747361371946147_93670049_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/782/gallery/1987/conversions/17554429_1635127943169481_5588081647115123388_n-big.jpg"
+    ],
+    "description": "Abel’s Wine Bar este locul în care intimitatea și relaxarea sunt la ele acasă. Fiecare vizită la Abel’s Wine Bar va fi o experiență de neuitat. Peste 100 de varietăți de vin din întreaga lume sunt disponibile, cu o listă impresionată de vinuri din Noua Lume – America de Sud, Australia, Africa de Sud, Noua Zealandă, dar și pe de continent, și, desigur, o selecție de vinuri locale. ",
+    "location": "Strada Nicolae Tonitza 10, Centrul Vechi, București",
+    "price": "$$",
+    "reviewObj": [
+      {
+        "reviewBody": "Pentru un grup de 10 fete au creat o atmosfera super! Prezentarea vinurilor a fost documentata și vinurile în sine au fost foarte bine alese. Am plecat cu zâmbetul pe buze 😁",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "I love that lovely little wine bar. Super cosy, friendly stuff, wide range of wines. The place is located in a quiet street of the old centre. That's my first choice when longing for a chilled place.Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Good Wine. NICE PEOPLE!Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "We visited Abel's on a Sunday evening. Had a couple of bottles of white wine and a platter of assorted meats. The atmosphere is relaxed and the service is exemplary. If you are a wine lover this is a great place to visit if you are out exploring Bucharest's Old Center.Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "A great ppace to be. The cheeses are good, the meats are carefully selected, the staff is friendly and helpful. You are in good hands.Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Nice elected selection of Romanian and Italian wines, super service and nice location at the end of the Old Town.Sursa: Google",
+        "reviewStars": 5
+      }
+    ]
+  },
+  {
+    "title": "Pow Wow",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1556/gallery/13180/conversions/118820840_3207658912686991_8650628024080198450_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1556/gallery/12108/conversions/salatacuconfitderata-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1556/gallery/12106/conversions/MSZ_0747-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1556/gallery/12105/conversions/lavacake-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1556/gallery/13179/conversions/109666828_3062726477180236_8062287733208539602_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1556/gallery/13181/conversions/121602249_1596099243895317_7400450364931123106_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1556/gallery/12107/conversions/oua&baconinsosdeiaurt-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1556/gallery/12109/conversions/tiramisu-big.jpg"
+    ],
+    "description": "Pow Wow București are unul din cele mai bune cheesecake-uri din București și crește de la zi la zi în topul restaurantelor din zona Victoriei. Are un je ne sais quoi de cigar club, de loc în care te poți retrage pentru un pahar de whiskey cu gheață și o conversație deloc mondenă. În plus, pastele al arrabiata sunt divine.",
+    "location": "Calea Victoriei 102-108, Piața Romană, București",
+    "price": "$$$",
+    "reviewObj": [
+      {
+        "reviewBody": "Downtown italian restaurant, close to Victory Avenue & Radisson Blu Hotel, boasts a small but delicios menu; duck salad was good and the elephant schnitzel was amazing; warm service; decent prices; outdoor seating; free wi-fi; street parking;",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Local amenajat cu gust, atmosfera placuta la interior si pe terasa, chelneri amabili si mancare buna (friptura de vita gustoasa si gatita corect). Raport bun calitate/pret. Locatie superba, chiar langa Biserica Alba de pe Calea Victoriei. Recomand! :)",
+        "reviewStars": 4
+      }
+    ]
+  },
+  {
+    "title": "Noua Restaurant",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3094/gallery/13009/conversions/121113237_811315479645435_5054498167316426209_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3094/gallery/9632/conversions/67403033_486564168787236_4193776861483892736_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3094/gallery/13008/conversions/119788071_790001611776822_8848674899847724717_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3094/gallery/8720/conversions/60040945_443479233095730_4284324190946852864_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3094/gallery/9631/conversions/64322708_464885274288459_4354392132794974208_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3094/gallery/8722/conversions/60478164_443479199762400_1230054272519897088_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3094/gallery/9634/conversions/64457059_464886607621659_9109549244527673344_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3094/gallery/8719/conversions/60260858_443479149762405_3104967424626130944_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3094/gallery/8718/conversions/60068305_443479269762393_474533340054028288_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3094/gallery/8721/conversions/57272228_427766301333690_7169382052997890048_o-big.jpg"
+    ],
+    "description": "NOUA este o poveste românească, începe cu a fost odată și continuă cu lupta contra fricii drobului de sare. Acel drob în spatele căruia stă o reală frică de a acţiona, care ne transformă, uneori, în contemplatori ai lui şi nu invers. Nouă însă ne place să credem că drobul de sare este un început. Nu ne este teama de el, ci din contra, ne-a devenit prieten, şlefuit din drob într-un cristal luminos de sare. Aşadar \"cristalul de sare\" al teritoriul românesc este laitmotivul manifesto-ului NOUA...Îl găsiţi şi în sigla noastră. ",
+    "location": "Strada Popa Nan 7, Iancului, București",
+    "price": "$$$",
+    "reviewObj": [
+      {
+        "reviewBody": "Serviciu impecabil și o gastronomie extrem de creativa, totul într-un cadru idilic cu muzica de calitate pe fundal.",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Probably the best fine dining experience you can have in Bucharest.June menu highlights: beef tacos, fried squash, cherry ice cream dessert.",
+        "reviewStars": 5
+      }
+    ]
+  },
+  {
+    "title": "Grano",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/553/gallery/13039/conversions/64642386_2739982119364690_2912060368685629440_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/553/gallery/8971/conversions/53848847_341157979862484_147375726762905433_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/553/gallery/13038/conversions/52859406_2536974862998751_6431479892423999488_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/553/gallery/8972/conversions/54512437_813749792324424_8252713855060585051_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/553/gallery/8968/conversions/49501697_307206026577310_1071549522631678613_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/553/gallery/8970/conversions/52401417_121760745571236_8846077752292913564_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/553/gallery/8969/conversions/50767931_1194185094092524_177122861164384237_n-big.jpg"
+    ],
+    "description": "Un deli shop care a devenit unul dintre cele mai bune restaurante din oraș, unde atenția pentru detalii și rafinamentul fiecărei porții atrag numai reacții pozitive. Pasiunea pentru bucătăria italiană este dusă la alt nivel, iar selecția de vinuri care să completeze experiența gastronomică este pe măsură.Pentru ca și ceilalți oaspeți să se bucure de aceeași experiență extraordinară, limităm cina dumneavoastră la o durată de trei ore. Vă mulțumim pentru înțelegere și cooperare.+ VEZI MAI MULT",
+    "location": "Strada Puțul lui Zamfir 40, Floreasca, București",
+    "price": "$$",
+    "reviewObj": [
+      {
+        "reviewBody": "Cibo buono, servizio attento e prezzo moderato. Da ripetereQuality food, good service and moderate prices. Experience to repeat",
+        "reviewStars": 5
+      }
+    ]
+  },
+  {
+    "title": "Ceainăria GreenTea",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1603/gallery/3556/conversions/10955298_832733853430598_1498003822247744166_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1603/gallery/3553/conversions/12401978_951426521561330_4371492333243107759_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1603/gallery/3554/conversions/10523218_759951610708823_5198822445617277950_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1603/gallery/3555/conversions/12670521_1009772372393411_4495337838475570349_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1603/gallery/3557/conversions/12924393_1009772695726712_7466314895485525310_n-big.jpg"
+    ],
+    "description": "Ceainăria Greentea este un loc creat cu dragoste pentru cei ce apreciază frumosul sub toate formele lui. Ceainăria dispune de 4 saloane (Japonez, Indian, Salonul Mare, Micul Paris), terasa și un magazin în interiorul ceainăriei.",
+    "location": "Strada Dr. Burghelea 24, Traian, București",
+    "price": "$$",
+    "reviewObj": [
+      {
+        "reviewBody": "Intotdeauna ma simt bine la Green Tea. Recomand lava cake Matcha, facuta cu ceai Matcha, e senzationala si cred, unica.",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Un loc relaxant si placut! Voi reveni cu siguranta. Serviciu de calitate si personal amabil.",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Ceaiurile sunt interesante, sigur gasiti ceva nou de incercat. Mancarea este ok, recomand macaron cu cafea, cel mai bun pe care l-am mancat pana acum. Atmosfera relaxata, nice and cozy, locul arata bine si este primitor, si personalul este prompt si va explica orice doriti",
+        "reviewStars": 5
+      }
+    ]
+  },
+  {
+    "title": "Le Bab",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3142/gallery/9232/conversions/2-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3142/gallery/9233/conversions/3-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3142/gallery/9234/conversions/4-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3142/gallery/9231/conversions/1-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3142/gallery/9235/conversions/5-big.jpg"
+    ],
+    "description": "Proiectul de renaștere a kebabului Le Bab spune povestea unor pasionați de bucătăria tradițională din Orientul Mijlociu și din Asia de Sud, în timp ce utilizează tehnici moderne utilizate în bucătăriile cu stele Michelin. Rețetele sunt toate făcute cu ingrediente locale și sunt servite în pereche cu vinuri curate, beri artizanale și cocktail-uri.",
+    "location": "Calea Victoriei 12A, Centrul Vechi, București",
+    "price": "$$",
+    "reviewObj": [
+      {
+        "reviewBody": "De data aceasta pot spune ca nu am fost deloc incantata de experienta. Personalul comenta la fiecare client cata ceva (aveau impresia ca nu ii auzim). Hummusul pe care l-am mai comandat de multe ori a fost de data aceasta plin de ulei...mai mult ulei decat hummus. Pacat, de obicei plecam mereu de acolo cu o stare de bine.",
+        "reviewStars": 2
+      },
+      {
+        "reviewBody": "Servire buna, mancare excelenta, in special tater tots care aveau muuulte trufe - geniali. Nu e prima data cand mananc la Le Bab, dar parca acum a fost mai bun ca niciodata.",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Am fost impreuna cu iubitul meu si am avut o experienta foarte faina 😊 Personalul a fost extrem de amabil (ne-au oferit la final si o portie de crochete cu telemea din partea casei), iar mancarea foarte foarte buna. Preferatele noastre au fost Doner Beignet si Potato Skins, dar va recomandam sa testati cat mai multe pana va gasiti si voi preferatele. Noi deja stim ce comandam data viitoare 😊 Multumim!",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "E o placere sa revin aici! Mancare delicioasa si servire impecabila.",
+        "reviewStars": 5
+      }
+    ]
+  },
+  {
+    "title": "Zexe Sofia",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1607/gallery/3563/conversions/lobby_20pers.mic-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1607/gallery/3564/conversions/salon_nefumatori_parter_maxim_30pers.mic-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1607/gallery/3565/conversions/saoln_mocheta_etaj_16_pers.-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1607/gallery/3566/conversions/salon_mocheta_parter_16pers.-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1607/gallery/3567/conversions/salon_mare_rotund_parter_42pers.1-big.jpg"
+    ],
+    "description": "Zexe este perceptia fonetica a romanului la pronuntarea numeralului german SECHS, adica sase.",
+    "location": "Strada Sofia 1, Dorobanți, București",
+    "price": "$$$",
+    "reviewObj": [
+      {
+        "reviewBody": "Foarte gustoasa mâncarea, și porții generoase! Servire exemplara.",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Am comandat sarmale din carne de mistreț și cealaltă persoană berbecuț. Absolut excepționale alături de un vin roze și o servire ireproșabilă. Atmosfera este una tipică de sărbători, iar localul este de o ținută demnă de Belle Epoque",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Downtown business location but in a premium residential area, it boasts probably the best romanian cuisine in the city; crap brine is good, hot appetizers are delicious, along with a good house wine; kind service; decent prices; no outdoor seating; no smoking; free wi-fi and public street parking, tough during business hours;",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Servicii foarte bune. Mâncare deosebit atât pentru ciorbe, fel principal cât și pentru desert.",
         "reviewStars": 5
       }
     ]
@@ -206,15 +780,11 @@
     "price": "$$",
     "reviewObj": [
       {
+        "reviewBody": "We had a lovey diner on the terrace which felt like a garden. We enjoyed nice aperitifs, a good wine and very nice fruits de mer for 2. The waiter was very kind and helpful.",
+        "reviewStars": 5
+      },
+      {
         "reviewBody": "Foarte drăguț locul, cu o boltă deasupra meselor. Mâncarea foarte bună, recomand fructele de mare la grătar. Un loc de revenit.",
-        "reviewStars": 5
-      },
-      {
-        "reviewBody": "Mancarea este de 5 stele!!!Personalul competent..locatia centrala",
-        "reviewStars": 5
-      },
-      {
-        "reviewBody": "Pizza Quatro Formaggi GENIALĂ, timp de așteptare mic, deși restaurantul era plin. O să mai revin cu siguranță!",
         "reviewStars": 5
       }
     ]
@@ -246,7 +816,7 @@
         "reviewStars": 5
       },
       {
-        "reviewBody": "They serve very good coffee IMO, the terrace is cool and their staff is super friendly 👍I would recommend this place to anyone for a great coffee.Sursa: Google",
+        "reviewBody": "Amazing place for breakfast, the poached eggs were perfect and if you are into coffee this is the place to be. They have a nice fancy garden in the back and the location is quiet enough, well to honest Cotroceni is quiet in general. The staff is friendly, the atmosphere is relaxed and the location is excellent. A must go early in the morning when it is not crowded!Sursa: Google",
         "reviewStars": 5
       },
       {
@@ -258,98 +828,1051 @@
         "reviewStars": 2
       },
       {
-        "reviewBody": "Great place, tasty specialty coffee, delicious food, friendly staff, nice music and large terrace. Many other options to drink such as tea, lemonade, beer, best mulled wine in town and other cocktails.☕🍷🥃🍹🥂🍻🥗🍔🍳🤘Sursa: Google",
-        "reviewStars": 5
-      },
-      {
         "reviewBody": "Disappointing French menu. The croque madame and croque monsieur had nothing to do with the real thing. Just some slices of bread put on top of one another, with regular pork ham and some cheese (something you would rapidly prepare at home yourself). So why bother going out and eating the same thing you can also make at home? I had high expectations regarding the food, because the previous menu looked delicious in the photos.The bread was toasted, but had no taste whatsoever-French people prepare it with butter in a pan.It was served with French fries, and I doubt that this is the correct side to choose for croque.It's too bad, because the staff was really friendly, place was great, in a beautiful neighbourhood, weather was just fine.Maybe they just need to reconsider their cook.Sursa: Google",
         "reviewStars": 3
+      },
+      {
+        "reviewBody": "They serve very good coffee IMO, the terrace is cool and their staff is super friendly 👍I would recommend this place to anyone for a great coffee.Sursa: Google",
+        "reviewStars": 5
       }
     ]
   },
   {
-    "title": "Tuk Tuk",
+    "title": "Yoshi Sushi",
     "images": [
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/1614/gallery/13125/conversions/67820061_2360204547431897_4896624181887631360_o-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/1614/gallery/3583/conversions/18238713_1307750059344023_7174005145669840400_o-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/1614/gallery/3584/conversions/18278907_1307761472676215_7983759653407002614_o-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/1614/gallery/3585/conversions/13494861_984925924959773_5492362557495740214_n-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/1614/gallery/3586/conversions/18320717_1307744399344589_7478669271545693839_o-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/1614/gallery/3587/conversions/18278154_1307730929345936_6761209027395134250_o-big.jpg"
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/649/gallery/9384/conversions/IMG_1146-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/649/gallery/9652/conversions/76933183_2674889575867578_5334505722736541696_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/649/gallery/9654/conversions/78753048_2725120020844533_3202217136453844992_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/649/gallery/9651/conversions/74577928_2659402560749613_3716841097113108480_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/649/gallery/9653/conversions/78635750_2722312377791964_4935797118305566720_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/649/gallery/9655/conversions/79009755_2709073522449183_5176442705676337152_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/649/gallery/9385/conversions/IMG_1147-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/649/gallery/9386/conversions/IMG_1149-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/649/gallery/9383/conversions/IMG_1145-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/649/gallery/9387/conversions/IMG_1150-big.jpg"
     ],
-    "description": "\"Tuk Tuk \" vă aduce mancarea de stradă thailandeză chiar în centrul gastronomic al Bucureștiului-Dorobanți.",
-    "location": "Strada Putul lui Zamfir 15, Dorobanți, București",
+    "description": "YOSHI Sushi & Teppanyaki, situat în zona Floreasca, pe strada Banu Antonache nr. 40-44, este locul în care vei trăi o experiență japoneză autentică, unde vei experimenta cele mai impresionante arome exotice și te vei desfăta cu cele mai fine preparate asiatice, pregătite de Chef Vova, unul dintre cei mai apreciați maeștri ai bucătăriei japoneze din România.",
+    "location": "Strada Banul Antonache 40-44, Floreasca, București",
     "price": "$$$",
     "reviewObj": [
       {
-        "reviewBody": "Wow, gust delicios si chelner super amabil, revenim! Data viitoare sper sa fie chiar toate preparatele din meniu",
+        "reviewBody": "Mancare gustoasa, limonada excelenta, personal amabil, servire rapida.",
         "reviewStars": 5
       },
       {
-        "reviewBody": "Am fost pentru prima data la Tuk Tuk si ne-am simtit tare bine. Mancare gustoasa (chicken satay, edamame, tom kha, pad thai), a iesit totul super repede, iar servirea a fost ireprosabila. Au si scaune pt copii. Ne vom intoarce cu siguranta.",
+        "reviewBody": "Am venit cu iubita mea de V Day si am avut o selectie de ceaiuri si sushi, nu pot sa spun cat au fost de delicioase, plus atmosfera calma si tematica.Categoric mai venim si noi, si cu alti prieteni la o seara !Arigatou",
         "reviewStars": 5
       },
       {
-        "reviewBody": "Highly recommend the two soups - ingredients were very fresh. Also, the drunken noodles. The red curry was good but came cold and a little too spicy. Service was excellent - very personal & professional. HIGHLY recommend this restaurant for Thai.",
+        "reviewBody": "Nice staff, amazing sushi and cakes. Will definitely return!",
         "reviewStars": 5
-      },
-      {
-        "reviewBody": "Foarte buna mancarea, super servire! Un loc curat si frumos.",
-        "reviewStars": 5
-      },
-      {
-        "reviewBody": "Calitatea mancarii a scazut fata de ultima vizita. Cred ca vom alege alt restaurant Thai data viitoare.",
-        "reviewStars": 3
       }
     ]
   },
   {
-    "title": "BistroMar",
+    "title": "Doncafe Brasserie Dorobanti",
     "images": [
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/2914/gallery/8031/conversions/28783056_186455581962623_7818457490957271040_n-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/2914/gallery/8032/conversions/27908041_181179422490239_2152687465918428046_o-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/2914/gallery/8033/conversions/27993809_181176332490548_3069427061453393534_o-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/2914/gallery/8034/conversions/27973622_182621555679359_6924456066919405653_n-big.jpg"
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2444/gallery/6460/conversions/280032_450231561697221_2040622733_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2444/gallery/6462/conversions/14707835_1141083742611996_740704756852674777_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2444/gallery/6461/conversions/280665_450238881696489_575222701_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2444/gallery/6463/conversions/14682099_1141289002591470_1944220039944861006_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2444/gallery/6464/conversions/14612506_1145811605472543_7377377635776207439_o-big.jpg"
     ],
-    "description": "Pretențioși și atenți la fiecare detaliu, la BistroMar sunt calitățile care ne fac să avem peștele perfect ales și pregătit cu pasiune. Te așteptăm la BistroMar să explorăm gusturile speciale de la Chef Cătălin Jernoiu, chiar în apropierea Pieței Floreasca.",
-    "location": "Strada Banul Antonache 41, Floreasca, București",
+    "description": "Una dintre cele mai cunoscute destinații din centrul Bucureștiului, Doncafe Brasserie oferă o experiență demnă de un restaurant internațional. Fie că aveți în plan o întâlnire de afaceri sau doar o masă liniștită, Doncafe Brasserie vă oferă un spațiu elegant și un meniu variat cu oferte speciale în fiecare zi. ",
+    "location": "Strada Ankara 7, Dorobanți, București",
+    "price": "$$$",
+    "reviewObj": [
+      {
+        "reviewBody": "Excelent mic dejunul, cele mai bune oua posate .Personal foarte amabil.",
+        "reviewStars": 5
+      }
+    ]
+  },
+  {
+    "title": "Mamizza",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3227/gallery/9996/conversions/61457265_461818717896667_7637326659816783872_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3227/gallery/9995/conversions/60345238_455571865188019_7881834981859786752_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3227/gallery/9998/conversions/69517395_522350961843442_3696376445531062272_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3227/gallery/9997/conversions/69258702_515656309179574_2616662907592638464_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3227/gallery/9999/conversions/74413566_581703289241542_7386648857771245568_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3227/gallery/10000/conversions/81798202_619200638825140_2505257799601094656_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3227/gallery/12713/conversions/MHN06677-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3227/gallery/12714/conversions/MHN06663-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3227/gallery/12715/conversions/MHN06713-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3227/gallery/12716/conversions/MHN06756-big.jpg"
+    ],
+    "description": "Mamizza este un proiect comun al echipelor Camionetta (experți în pizza) și Kané (restaurant de fine dining care crede în ingredientele locale și în gastronomie ca experiență). Împreună ne-am propus să aducem publicului bucureștean pizza napoletană autentică, pregătită cu cele mai bune ingrediente din zona de sud a Italiei, furnizate săptămânal de o serie de cooperative de producători locali. Va asteptam în Str. Tunari 60A, pe terasă, în interior, într-un spațiu ce aduce la viață spiritul contemporan al orașului Napoli.Noi suntem Mamizza - Mother of Pizza.+ VEZI MAI MULT",
+    "location": "Strada Tunari 60A, Ștefan cel Mare, București",
+    "price": "$$$",
+    "reviewObj": [
+      {
+        "reviewBody": "Mergi acolo exact pentru ce scrie in denumirea locului “Pizza”…Daca vrei pizza napolitana clasica sau cu interpretari moderne - acesta e locul!",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Mother of pizza 🍕and beer 🍻Recomanx pizza dolores! Great service",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Pizza extraordinara! Si fresh-urile sunt super!!! O sa revenim! Multumim",
+        "reviewStars": 5
+      }
+    ]
+  },
+  {
+    "title": "Benihana",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2720/gallery/11854/conversions/asahi-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2720/gallery/12748/conversions/37066209_2051217231586673_6317490601394700288_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2720/gallery/11605/conversions/CAL_6996-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2720/gallery/11604/conversions/Benihana_Sheraton_Bucharest_by-Sandro-Bruecklmeier_IMG_0338-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2720/gallery/12744/conversions/37040915_2051216598253403_4986809690420674560_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2720/gallery/11606/conversions/DAN17299-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2720/gallery/12745/conversions/49998713_2410800172295042_4904266144182960128_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2720/gallery/12746/conversions/37839750_2074455885929474_4132537611459756032_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2720/gallery/12747/conversions/37063737_2051219218253141_4551280150972465152_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2720/gallery/12749/conversions/37027480_2051216628253400_8492062041194889216_o-big.jpg"
+    ],
+    "description": "Intre orele 15:00 si 18:30 restaurantul este inchis.",
+    "location": "Calea Dorobantilor 5-7, Piața Romană, București",
+    "price": "$$$",
+    "reviewObj": [
+      {
+        "reviewBody": "A fost tot ce ma asteptam. :) As reveni cu placere oricand. Totul profi.",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Always a great experience at Benihana. Food quality was excellent and service very good.Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "I really enjoyed my first time at Benihana, the chefs put up a great show when preparing the food in front of you, playing with fire. Ours was particularly friendly and had lots of tricks up his sleeve. The beef steak was tasty and really tender and the fried rice with eggs that went with it was great as well. Sushi was ok, not the best I've had, I would say.It's a pricey place for Bucharest (it's located inside the Sheraton hotel, that's a hint), but the main courses include lots of extra stuff (onion soup, salad, seafood, some delicious ice-cream, etc) so overall I think the experience was worth the bill. If you're looking for something tasty and out of the ordinary, go for it.Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Imcredible food, incredible showSursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "We always come here for the sushi ♥️ which is definitely the best in Bucharest. We've also tried the beef and lobster, also very good, but the portions were a bit smaller than expected. The service is excellent every single time.Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Franchise of famous US chain of restaurants. Same menu and standards. If you order tuna/scallops (my favorite here) or any main food option, you also get lot of appetizers. Lot of sauces. Be prepared for high calorie intake!Sursa: Google",
+        "reviewStars": 5
+      }
+    ]
+  },
+  {
+    "title": "Sardin",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2466/gallery/10444/conversions/102390573_264203267991750_6023178203659501568_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2466/gallery/10449/conversions/burgers-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2466/gallery/10447/conversions/102611804_559191564958993_8726860859520843776_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2466/gallery/10450/conversions/caracatita2-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2466/gallery/10445/conversions/103065819_938835463224611_3297436758974660608_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2466/gallery/10452/conversions/paste1-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2466/gallery/10443/conversions/101891499_601514437146458_6914922012557180928_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2466/gallery/10451/conversions/desert1-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2466/gallery/10446/conversions/102407885_311236213205811_3321729394648547328_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2466/gallery/10453/conversions/scoici1-big.jpg"
+    ],
+    "description": "Sardin - un restaurant cu aer mediteranean și bucătărie responsabilă. Folosim numai ingrediente de origine controlată, produse tradiționale autentice, pește și fructe de mare sălbatice, de captură.Va rugam sa aveti in vedere faptul ca terasa dispune doar de 3 incalzitoare. ",
+    "location": "Bulevardul Mircea Voda 39H, Timpuri Noi, București",
     "price": "$$",
     "reviewObj": [
       {
-        "reviewBody": "Cina delicioasa servita pe terasa, cu incalzitor, cu respectarea normelor impotriva CovidBisque de creveti delicios (insa cam putintel - subiectiv), homar cu tagliatelle foarte bun, icre de stiuca tare bune, tagliatelle cu somon proaspat foarte bunRose de Letea bun",
+        "reviewBody": "Nu este ușor sa alegi ceva de mâncare când este extrem de cald, afara și in sala, dar supa de peste și midiile au fost potrivite pentru noi, iar desertul cu mere și înghețată perfect; pe data viitoare :)",
         "reviewStars": 5
       },
       {
-        "reviewBody": "Totul a decurs minunat, mancarea foarte buna, timpul de asteptare foarte scurt.",
+        "reviewBody": "Nice ambient and kind stuff. The food was good, but not excellent and quite pricey. We had octopus and duck breast, which were ok.Maybe we'll return at some point",
+        "reviewStars": 4
+      }
+    ]
+  },
+  {
+    "title": "Hidden",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2469/gallery/12030/conversions/CS-08607-big.jpg"
+    ],
+    "description": "Un spațiu creat pentru oameni speciali care vor să aibă un loc numai al lor, în care să se simtă atât de potrivit încât dacă l-ar fi creat ei înșiși ar fi ieșit la fel. Meniul, lista de băuturi sau poate evenimentele cu muzică live, toate sunt parte din experiența Hidden. ",
+    "location": "Strada Doamna Chiajna 26, Timpuri Noi, București",
+    "price": "$",
+    "reviewObj": [
+      {
+        "reviewBody": "Hidden este un loc bine ascuns :). Am petrecut o seara de vara cu muzica foarte buna (Jazz& Blues@Cristina Lupu& Florin Serban) si m-am racorit cu socata. A fost o experienta foarte placuta si relaxanta. Gradina este de vis si merita sa fie descoperita!",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Super locație cu sper atmosferă. O varietate imensa de bere !",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Delicious craft beers, live music sessions, board games, a complex, but fun escape room and a great feeling being at a hidden treasure! Try it!",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Un loc placut, cu bauturi variate, multe din ele artizanale. Atmosfera relaxanta, board games la discretie, muzica buna.",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "A hidden (Hihi) craft beer gem in Bucharest. Everytime I visit I have a different beer, and you have to visit several times to get a feel of the variety. When you think you've tried enough, there's always something new on the menu. You should also not overlook the cider, smaller selection, but a fine selection.The outdoor terrace is cozy and green and has a cool mural. A must if you like cozy less known beer places.Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Great place! Be it that you are going to watch an improvisation show or just enjoy some of the best artisanal beers in town, you will definitely be charmed by the beautiful design touches and nice vibe of the place.Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Very nice and quiet place and nice selection of beers. My favorite is Crowd ControlSursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Rude service. They kept on telling us to buy more drinks after the first round. Talked a lot about what and how to pay 'cause they don't make money, putting pressure on us. Never got to finish our chess game because of it, too rude. We left even though it was pouring rain outside. Not. Ok.I was wondering why such a beautiful pub (location and décor) is so empty.Sursa: Google",
+        "reviewStars": 1
+      },
+      {
+        "reviewBody": "Cozy and pleasant place to drink a tasty tea or a delicious craft beer!!!!improv show, board games and books to enter in a hidden relaxation!10+ A+ BEST IN TOWNSursa: Google",
         "reviewStars": 5
       }
     ]
   },
   {
-    "title": "Taqueria El Torito",
+    "title": "Dancing Lobster",
     "images": [
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/2689/gallery/7273/conversions/20915078_348492165588437_6559506461393601474_n-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/2689/gallery/7274/conversions/20882676_348499992254321_7438663501821400820_n-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/2689/gallery/7275/conversions/20799815_346939462410374_1258953011310320625_n-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/2689/gallery/7276/conversions/15542360_232415910529397_7395901094778242526_n-big.jpg",
-      "https://d2fdt3nym3n14p.cloudfront.net/venue/2689/gallery/7277/conversions/20842122_348492162255104_2352708076064496823_n-big.jpg"
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2474/gallery/15979/conversions/WhatsApp_Image_2021-06-08_at_16.07.11_(6)[1]-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2474/gallery/15972/conversions/WhatsApp_Image_2021-06-08_at_16.07.10_(1)[1]-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2474/gallery/15978/conversions/WhatsApp_Image_2021-06-08_at_16.07.11_(5)[1]-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2474/gallery/15973/conversions/WhatsApp_Image_2021-06-08_at_16.07.10[1]-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2474/gallery/15976/conversions/WhatsApp_Image_2021-06-08_at_16.07.11_(3)[1]-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2474/gallery/15975/conversions/WhatsApp_Image_2021-06-08_at_16.07.11_(2)[1]-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2474/gallery/15974/conversions/WhatsApp_Image_2021-06-08_at_16.07.11_(1)[1]-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2474/gallery/15977/conversions/WhatsApp_Image_2021-06-08_at_16.07.11_(4)[1]-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2474/gallery/15980/conversions/WhatsApp_Image_2021-06-08_at_16.07.11_(7)[1]-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2474/gallery/15981/conversions/WhatsApp_Image_2021-06-08_at_16.07.11[1]-big.jpg"
     ],
-    "description": "Ca orice poveste culinară venită din America de Sud, El Torito aduce publicului bucureștean inconfundabilul street food mexican, într-un decor care respectă principiile mexicane: explozie de culori calde și vesele, la care se adaugă acorduri muzicale mexicane. O fiesta într-o farfurie, potrivit pentru ieșirile cu prietenii sau cu familia.",
-    "location": "Strada Apolodor 3, Unirii, București",
-    "price": "$",
+    "description": "Dancing Lobster este un restaurant portughez rafinat, cu design specific și servicii de calitate. Aromele autentice și preparatele din pește si fructe de mare sunt pregătite de bucătari sosiți din Portugalia, experți ai meniurilor concepute cu creativitate și ai show-urilor de live cooking.",
+    "location": "Strada Glodeni 3, Floreasca, București",
+    "price": "$$$",
     "reviewObj": [
       {
-        "reviewBody": "Atmosfera frumoasa, servirea OK, nu cea mai buna mancare. 3 stele pentru gustul mancarii si pentru faptul ca, desi apar pe site-ul Sodexo, nu au primit tichete de masa.",
-        "reviewStars": 3
-      },
-      {
-        "reviewBody": "Mergi aici pentru relaxare si “comfort food”... mancarea este gustoasa si mai mult dexat suficienta.Preturile sunt ok, la fel si servirea si clientela.Daca nu stii cu ce sa incepu, ia-ti tacos si quesadilla (macheca) si impartiti.",
+        "reviewBody": "Atmosfera minunata, servire pe masura si produse de calitate. Recomand acest restaurant",
         "reviewStars": 5
       },
       {
-        "reviewBody": "Mancare foarte buna, servirea rapida si super nice, iar terasa e foarte bine aerisita si incalzita",
+        "reviewBody": "Mancarea e ireprosabila, retetele originale respectate la virgula. Big kudos pt Eduard pentru servire si recomandarile excelente!👏🏻👏🏻💯💯💯",
         "reviewStars": 5
       }
     ]
+  },
+  {
+    "title": "Pe Baricade",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/955/gallery/11077/conversions/WhatsApp-Image-2020-07-20-at-14.54.12-(1)-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/955/gallery/11076/conversions/WhatsApp-Image-2020-07-20-at-14.54.12-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/955/gallery/11074/conversions/WhatsApp-Image-2020-07-20-at-14.54.10-(1)-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/955/gallery/11075/conversions/WhatsApp-Image-2020-07-20-at-14.54.13-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/955/gallery/11079/conversions/WhatsApp-Image-2020-07-20-at-14.54.11-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/955/gallery/11073/conversions/WhatsApp-Image-2020-07-20-at-14.54.10-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/955/gallery/11078/conversions/WhatsApp-Image-2020-07-20-at-14.54.12-(2)-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/955/gallery/11080/conversions/WhatsApp-Image-2020-07-20-at-14.54.11-(1)-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/955/gallery/11081/conversions/WhatsApp-Image-2020-07-20-at-14.54.11-(2)-big.jpg"
+    ],
+    "description": "\"Eat! Drink! Survive! In centrul orasului!\" este locul unde serile sunt animate de amatori si profesionisti in ale improvizatiei, cantari live si playlisturi cu muzica buna. Programul artistic completeaza meniul si lista de bauturi astfel incat sa petreceti intr-o ambianta placuta. ",
+    "location": "Strada Radu Vodă 23A, Unirii, București",
+    "price": "$",
+    "reviewObj": [
+      {
+        "reviewBody": "Atmosfera minunata, servire excelenta, mancarea fooarte buna si bautura din belsug 😁. Ma simt excelent de fiecare data cand vin la voi! recomand 💛",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Best vegetarian burger. Ever. I don't eat beaf, I just hate it. The veggie was a fresh new taste worth trying.Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Great music, good prices, very good service. Always had a great time there..Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Cool hipster bar in a quiet place. Big enough garden, wide variety of drinks and craft beers. Bike friendly.Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Great location close to Unirii Metro Station. Atmosphere is great ,all kind of music a lot of green trees and cool deco. Draught beer with 3 options . I drunk Bucur local lager. Wooden oven for pizza ,fresh traditional soups and broth and week days local dishes . Recommend this place ! I enjoyed the experience. Price...very attractive!Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Nice garden in the middle of the city, decent price good service and tasty pizzaSursa: Google",
+        "reviewStars": 5
+      }
+    ]
+  },
+  {
+    "title": "BRYO Appetite",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3271/gallery/10661/conversions/NIS_0019-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3271/gallery/10655/conversions/NIS_0228-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3271/gallery/10662/conversions/NIS_0012-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3271/gallery/10654/conversions/NIS_0238-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3271/gallery/10660/conversions/NIS_0021-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3271/gallery/10656/conversions/NIS_0227-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3271/gallery/10663/conversions/NIS_0010-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3271/gallery/10657/conversions/NIS_0198-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3271/gallery/10659/conversions/NIS_0119-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3271/gallery/10658/conversions/NIS_0166-big.jpg"
+    ],
+    "description": "Amplasat la intrarea în Parcul Carol, BRYO este unul dintre restaurantele deschise recent. Prin design, mâncare și atmosferă, restaurantul a recreat senzația de vacanță. Pizza, paste și risotto, dar și o colecție de vinuri și cocktails dau vibe-ul unui loc care arată o altă față a orașului, mai aproape de ideea de vacanță și relaxare.",
+    "location": "Bulevardul Marasesti 2B, Carol, București",
+    "price": "$$",
+    "reviewObj": [
+      {
+        "reviewBody": "Mancare buna, atmosfera prietenoasa, personal tanar si placut! Sar'na pentru masa!",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Un local amenajat in stil industrial, perfect pentru o iesire in familie sau ch prietenii. Ospatari extrem de prietenosi, mancare super gustoasa.",
+        "reviewStars": 5
+      }
+    ]
+  },
+  {
+    "title": "La Cena",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/464/gallery/1481/conversions/22007832_666142300254012_6668630227150401300_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/464/gallery/1482/conversions/24312598_692747727593469_6679150101901352041_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/464/gallery/13164/conversions/22426467_672359119632330_602007693500746571_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/464/gallery/1485/conversions/25353858_698019193732989_3176934108097112539_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/464/gallery/13163/conversions/22424384_672355702966005_5287473623260475673_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/464/gallery/1484/conversions/21462231_674562502745325_4096115106611993965_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/464/gallery/13162/conversions/22384061_672355632966012_6164009584243379216_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/464/gallery/1483/conversions/25396173_698430767025165_7841105352737285046_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/464/gallery/13165/conversions/22538996_672355692966006_4750927427093562334_o-big.jpg"
+    ],
+    "description": "La vita e troppo breve per bere del vino cattivo Restaurantul La Cena prezintă bucătăria italienească așa cum este ea în nordul țării. Pizza făcută pe vatră cu lemne, cu blatul subțire, paste, carne și pețte cum găsești la Milano, doar că aduse în centrul Bucureștiului pentru a delecta și alte papile gustative.",
+    "location": "Strada Maria Rosetti 1, Armenească, București",
+    "price": "$$",
+    "reviewObj": [
+      {
+        "reviewBody": "Cena este un loc deosebit cu oameni deosebiti, este intotdeauna o placere sa iau masa aici",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Took an hour to get food. Food was dry and not cooked well and my friend found hair in her food. It was a busy night I get it, but worst service I have ever experienced. Go ANYWHERE else.Sursa: Google",
+        "reviewStars": 1
+      },
+      {
+        "reviewBody": "Postpandemic effect in the air...Food received after 1h15min from order. Food quality 3/5Sursa: Google",
+        "reviewStars": 2
+      },
+      {
+        "reviewBody": "Nice places and good food...👍👍👍Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Good place... DowntownSursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "This is an excellent place to eat a delicious Italian dish and the desserts are all wonderful. Whatever you choose it will not dissapoint. The staff is incredibly lovely and will serve you with a smile on their faceSursa: Google",
+        "reviewStars": 5
+      }
+    ]
+  },
+  {
+    "title": "Pizza Mania",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3329/gallery/11030/conversions/109402138_4308752965831498_5900085401723768087_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3329/gallery/11027/conversions/98119670_4049313638442100_3669155385190645760_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3329/gallery/11026/conversions/89004584_3760684267305040_8505274799411429376_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3329/gallery/11028/conversions/100939957_4087495661290564_7685511498478649344_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3329/gallery/11029/conversions/83251699_4163572867016176_8004278745028096422_o-big.jpg"
+    ],
+    "description": "Pizza, sandwich-uri sau salate delicioase, toate cu ingrediente importate din Italia special pentru a aduce acea savoare napoletană. Făina de cea mai bună calitate, sosul de roșii delicios și mozzarella sunt principalele ingrediente care transformă bucătăria în pol de atracție pentru iubitorii de gusturi autentice.",
+    "location": "Strada Grigore Alexandrescu 8, Victoriei, București",
+    "price": "$$",
+    "reviewObj": [
+      {
+        "reviewBody": "Excelenta mancarea. Domnisoara care ne a servit a fost extraordinar de profesionala si placuta.",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Personalul foarte cald. Atmosfera foarte placuta, autentic si lively.exact ce imi lipsea. Terasa foarte placuta. Foarte frumos si viu",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Atmosfera ok, curatenie, insa felul de pizza comandat nu a fost pe gustul meu. O recomandare: chelnerii sa poarte masca, chiar daca e vorba terasa (partial acoperita).",
+        "reviewStars": 4
+      },
+      {
+        "reviewBody": "Local dragut si o pizza foarte buna! Este si central.Recomand cu drag!",
+        "reviewStars": 5
+      }
+    ]
+  },
+  {
+    "title": "The Mark Restaurant & Pub",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3080/gallery/8660/conversions/whatsapp_image_2019_05_15_at_15.06.392-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3080/gallery/8661/conversions/whatsapp_image_2019_05_15_at_15.06.39_2_2-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3080/gallery/8662/conversions/whatsapp_image_2019_05_15_at_15.06.381-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3080/gallery/8663/conversions/whatsapp_image_2019_05_15_at_15.06.402-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3080/gallery/8664/conversions/whatsapp_image_2019_05_15_at_15.06.39_1_1-big.jpg"
+    ],
+    "description": "The Mark reprezintă o experiență autentică completă, cu o selecție de ingrediente simple sau mai puțin obișnuite, reinterpretate într-un mod delicios. Locul perfect în care să îți petreci pauza de prânz și unde să revii în serile cu muzică live și weekendurile cu atmosferă chill, de socializare.",
+    "location": "Calea Grivitei 84-98, Grivița, București",
+    "price": "$$",
+    "reviewObj": [
+      {
+        "reviewBody": "Great food, friendly staff. Good spot for a lunch break during the week, also.Hint: You have to try their Marisco soup, it is delicious 💛Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Surprisingly unpleasant! The food tasted terribly although the place looks pretty nice. The squid dish I ordered made me sick: an unappealing odd mixture of aioli sauce, lettuce, tomato with some grilled squid on top. It had nothing in common with the real taste of calamari a la plancha you might know.Sursa: Google",
+        "reviewStars": 1
+      },
+      {
+        "reviewBody": "Very elegant space, friendly staff, good selection for the meniu. We were very satisfied with our order and the service.Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Best Burger ever! :)Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "The service was ok--ish, but the food not at all. The dessert was tasteless and overcooked.Sursa: Google",
+        "reviewStars": 2
+      }
+    ]
+  },
+  {
+    "title": "Nadasan Restaurant",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3088/gallery/8696/conversions/whatsapp_image_2019_06_20_at_16.03.23-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3088/gallery/8694/conversions/whatsapp_image_2019_06_20_at_16.03.21_1_-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3088/gallery/8697/conversions/whatsapp_image_2019_06_20_at_16.03.23_1_-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3088/gallery/8693/conversions/whatsapp_image_2019_06_20_at_16.03.21-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3088/gallery/8695/conversions/whatsapp_image_2019_06_20_at_16.03.22_1_-big.jpg"
+    ],
+    "description": "Povestea Nadasan a inceput nu demult, dar are la baza pasiunea pentru mancarea si cultura asiatica. Am creat pentru dumneavoastra un meniu complex si savuros, cu peste 40 de preparate specific asiatic, dar si international. Acesta contine pe langa selectia de supe : Miso soup, Tom yum soup, Ramen, numeroase tipuri de sushi, dar si preparate calde precum orezuri, noodlesi, salate si deserturi. Sunt de mentionat si steakurile noastre de exceptie. Promitem ca experienta culinara traita la noi in restaurant va fi de neuitat. Va asteptam intr-un spatiu elegant, plin de bun gust sa savurati produsele noastre. Am deschis primul restaurant si speram ca nu si ultimul pe strada Virgil Madgearu nr. 27 in complex Persepolis.+ VEZI MAI MULT",
+    "location": "Strada Virgil Madgearu 27, Cartierul Francez, București",
+    "price": "$$$",
+    "reviewObj": [
+      {
+        "reviewBody": "It was very good, the staff is very nice, there is a nice outdoor area for the kids to play and the experience was very enjoyable.Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Thumbs-up for the best sushi restaurant in Herăstrău, today!Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Nice, clean, qualitative and fresh food, little bit expansive compare with similar venuesSursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Amazing sushi, one of the best if not the best in BucharestSursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Very good sushi!🤤Sursa: Google",
+        "reviewStars": 5
+      }
+    ]
+  },
+  {
+    "title": "Argentine",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/19/gallery/602/conversions/12402162_561437437342385_2965364374514456632_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/19/gallery/603/conversions/1502315_276573205828811_172748430_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/19/gallery/604/conversions/15621830_730602283759232_6011855777774508476_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/19/gallery/605/conversions/12418098_564056343747161_8358272861517614950_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/19/gallery/606/conversions/15401149_724676427685151_2963567516636733683_n-big.jpg"
+    ],
+    "description": "Odata calcat pragul restaurantului nostru, dumneavoastra, in calitate de client nu veti duce lipsa de nimic. Bunul simt al decorurilor, serviciul de calitate si mancarea desavarsita de maestrul bucatar sef Amra, va vor purta intr-o calatorie culinara deosebita. “Plimbandu-va” prin varietatea preparatelor din meniu, nu foarte mare, insa conceputa special pentru a satisface cele mai exigente cerinte culinare ale dumneavoastra, veti constata ca predomina steak-ul de vita. Toate tipurile de carne preparate de noi sunt importate din Argentina, furnizorul nostru asigurandu-ne cea mai calitativa carne de pe piata in momentul de fata. Imediat livrata catre noi, carnea sta intr-o substanta de marinare timp de 48 ore, dupa care este pregatita pentru a fi servita. Puteti opta pentru o carne macra (muschiul de vita), o adevarata piesa de rezistenta a restaurantului nostru, sau pentru o carne de vitel de lapte, cum ar fi vrabioara. Cei mai inflacarati clienti dupa o friptura suculenta de vita se pot ospata cu un Rib Eye (antricot vita) insemnand o carne impanata cu grasime. Bineinteles ca avem si mult ravnitul T-bone de vitel. Pentru cei dintre dumnevoastra care vor ceva light putem prepara fructe de mare, piept de pui sau alte delicatese din bucataria internationala. Nu uitati finalul. Pentru ca totul sa fie perfect, va recomand sa comandati ospatarului minunatul desert marca Argentine, tortul Milhojas, o delicioasa prajitura din foi, intercalate cu crema de vanilie si stropita cu dulceata de lapte. Lasandu-va simturile gastronomice in baza bucatarului nostru veti vedea cum puteti simti o adevarata simfonie a papilelor gustative in momentul in care veti gusta din nemaipomenita carne de vita argentiniana si din extraordinarele preparate facute dupa retete argentinine. Va invitam sa incercati.+ VEZI MAI MULT",
+    "location": "Soseaua Nordului 7-9, Herãstrãu, București",
+    "price": "$$$",
+    "reviewObj": [
+      {
+        "reviewBody": "Atmosfera placuta, servicii super si mancarea ca de obicei foarte buna!",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Un loc foarte cozy, atmosfera placuta, pe malul lacului, serviciul un pic cam incet, dar asta nu a deranjat foarte tare. Friptura pe piatra incinsa este un “must have” si in general mancarea este delicioasa. Recomand.",
+        "reviewStars": 5
+      }
+    ]
+  },
+  {
+    "title": "Trattoria Roma",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/534/gallery/12779/conversions/28951495_1323214944490670_6711104354236128196_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/534/gallery/12780/conversions/118380665_2187679118044244_6686159430406990836_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/534/gallery/12778/conversions/117289176_2166356713509818_1596793687740141806_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/534/gallery/12781/conversions/117770858_2175580629254093_4699153646893823387_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/534/gallery/12782/conversions/117264278_2172548979557258_3719079874261865152_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/534/gallery/1579/conversions/trattoria-roma-2109-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/534/gallery/1580/conversions/trattoria-roma-2108-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/534/gallery/1581/conversions/trattoria-roma-2110-big.jpg"
+    ],
+    "description": "Trattoria Roma este un restaurant localizat la adresa Strada Mântuleasa numărul 31. Deschis zilnic între orele 12:00 - 00:00.La Trattoria Roma te poți bucura de unele din cele mai bune preparate cu specific italian.",
+    "location": "Strada Mântuleasa 31, Moșilor, București",
+    "price": "$$",
+    "reviewObj": [
+      {
+        "reviewBody": "Probabil cei mai buni calamari prăjiți din București. Pizza quatro formaggi în cuptor de lemne a fost minunată, de-asemenea carpaccio de vită pe ruccola.",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Mancare excelenta si f gustoasa! Retete diversificate si calitate superiara. Servicii f bune si rapide! Foarte aglomerat; trebuie facuta rezervare din timp. Merita pt pranz si cina.",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Localul e foarte dragut, stylish. Serviciile bune si rapide. Mancarea la fel la preturi ok.",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Mancare f buna; servicii bune si prompte. La fructele de mare, portiile trebuie ajustate un pic (sunt mici - eg caracatita). Deserturi excelente.",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Excellent food and great service. Relaxed atmosphere and child friendly. The food quality is consistent.Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "A \"cheap\" restaurant pretending to be a fancy one. Coffee is very bad, food is mediocre at best. Also, I have tasted food in traditional restaurants more italian than this. Sorry but i am disappointed.Sursa: Google",
+        "reviewStars": 2
+      },
+      {
+        "reviewBody": "Great place in town. Best sine and tasty food!Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Excellent food and very friendly staff.Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Best carpaccio in town. :)Sursa: Google",
+        "reviewStars": 5
+      }
+    ]
+  },
+  {
+    "title": "White Horse",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/794/gallery/10143/conversions/0-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/794/gallery/10151/conversions/1-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/794/gallery/10149/conversions/3-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/794/gallery/10142/conversions/9-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/794/gallery/10148/conversions/4-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/794/gallery/10150/conversions/2-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/794/gallery/10144/conversions/8-big.jpg"
+    ],
+    "description": "In 1997 incepe povestea White Horse Pub & Restaurant, locul unde in toti acesti ani s-a construit o comunitate in jurul mancarii bune, a serviciilor prietenoase si a atmosferei de familie. Cu un meniu care s-a dezvoltat in timp si care are acum multi fani declarati, White Horse este locul in care iti inviti prietenii de ziua ta, in care te opresti la pranz pentru preparate gustoase ca in copilarie, dar rafinate ca la Paris, si in care mancarea poarta cu ea cele mai dulci amintiri. White Horse este unul dintre putinele locuri cu istorie si traditii dezvoltate in ultimii 18 ani. Pentru ca este un proiect de familie care s-a dezvoltat durabil, la White Horse regasesti doua sau trei generatii de clienti fideli. Aici este locul in care s-au nascut povesti de dragoste, s-au facut planuri de afaceri, unde si astazi prietenii nostri vin sa-si serbeze bucuriile.+ VEZI MAI MULT",
+    "location": "Strada George Călinescu 4, Dorobanți, București",
+    "price": "$$",
+    "reviewObj": [
+      {
+        "reviewBody": "This location is really, really nice. The inside of the restaurant has an old style, and the terrace is simply gorgeous. The atmosphere outside is really relaxing. The food was quite good and the waiters were really receptive and acted fast. Cooking time was fast also. I strongly advise you to go here for a beautiful night out.Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Nice place, will come back. Food was good, decent wine selection, nice serviceSursa: Google",
+        "reviewStars": 4
+      },
+      {
+        "reviewBody": "I found their service and the food to be sub par. I had multiple bad experiences just because of the service. The best part about this place was the in door play area for the children but since covid that is no longer available.Sursa: Google",
+        "reviewStars": 3
+      },
+      {
+        "reviewBody": "Really nice and cozy, tasty food and good service.Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Such a lovely place, friendly stuff, good foodSursa: Google",
+        "reviewStars": 5
+      }
+    ]
+  },
+  {
+    "title": "B3TON RestoBar",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2846/gallery/9636/conversions/74429613_2278165048961906_2782012542828937216_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2846/gallery/9638/conversions/76931540_2359214950856915_413478558875254784_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2846/gallery/9639/conversions/78468566_2377406919037718_2567835911190478848_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2846/gallery/9637/conversions/75593909_2333690153409395_9029118869444231168_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2846/gallery/9260/conversions/copie-10.Aug.19---48-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2846/gallery/9259/conversions/copie-10.Aug.19---30-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2846/gallery/9269/conversions/3EBB372D-208F-4127-AB6A-48E8CA32B9A7-2-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2846/gallery/9272/conversions/copie-B3ton-Restobar-19-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2846/gallery/9271/conversions/copie-B3ton-Restobar-102-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2846/gallery/9270/conversions/B3599309-AFE1-49B9-91E9-295C6C56DDC0-2-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2846/gallery/9268/conversions/D44AF86C-F4FB-4E33-88C5-93D2DCF528B6-2-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2846/gallery/9265/conversions/95769103-457D-47BF-B23C-E955180E6463-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2846/gallery/9267/conversions/109D2E19-0E9A-4970-BA14-C43AE2BD7C12-2-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2846/gallery/9264/conversions/-7215920516198621925__MG_2506-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2846/gallery/9262/conversions/copie-10.Aug.19---103-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2846/gallery/9261/conversions/copie-10.Aug.19---115-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2846/gallery/9263/conversions/copie-10.Aug.19---140-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2846/gallery/9266/conversions/67F94AE9-6146-467F-BC09-301EEB54B61F-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2846/gallery/9640/conversions/79804273_2383572195087857_979859392302153728_o-big.jpg"
+    ],
+    "description": "Un restaurant este catalogat drept \"bun\" după mâncare, decor, cocktail-uri și oameni. B3ton Restobar le bifează pe toate. Fie că vrei să savurezi un burger savuros sau cele mai bune midii din oraș, răspunsul e #B3TON!",
+    "location": "Bulevardul Marasesti 2B, Carol, București",
+    "price": "$$",
+    "reviewObj": [
+      {
+        "reviewBody": "Buna seara, din pacate nu a fost chiar o reusita aceasta iesire . Nu din cauza rezervarii , aici totul a fost in regula .Mancare se putea sa fie mai ingrijita sa spun asa mai frumos.Am comandat un burger, putea sa fie mai bine facut si mai ingrijit ca prezentare, chifla veche, insa cartofii...... pe linga ca in multe restaurante cartofii sunt inclusi in pretul uni burger, aici nu a fost asa si parca erau facuti acum 3 zile si reincalziti putin intr-un ulei parca stricat.Au fost super imuiati in ulei si i-am luat pe cei cu ierburi si mai scumpi , dar au fost de departe cei mai rai cartofi mancati de mine.Pacat deoarece locatia este buna, ambianta OK, ,insa pare ca la ce te astepti mai mult sa fie bine ( mincarea) este la limita. Chelnerii sunt in regula ,m-au primit bine si au servit bine .Nu spun sa nu mergeti in acest local, dar poate ar fi bine ca pe viitor sa se doreasca putin mai mult de la bucatarie, pt ca se poate .",
+        "reviewStars": 3
+      },
+      {
+        "reviewBody": "Super mancarea, burgerii extrem de gustosi. Ce mi s-a parut nu exact acceptabil a fost faptul ca desi am luat cartofi cu usutroi si ierburi, cartofii (foarte buni de altfel, facutinin house) nu aveau nici urma de usturoi, nici ai mei, nici ai prietenei mele.Atmosfera e placuta si personalul destul de profesionist, mi-a placut.",
+        "reviewStars": 4
+      },
+      {
+        "reviewBody": "servirea 9preparatele 7.5destul de scump pt gustul mancariibauturi scumpe",
+        "reviewStars": 3
+      }
+    ]
+  },
+  {
+    "title": "Ganesha Caffe - Barbu Văcărescu",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/299/gallery/13137/conversions/45427243_1377889249008629_7513597959213154304_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/299/gallery/13142/conversions/119702546_1975455345918680_3297154688191204142_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/299/gallery/13140/conversions/52136236_1449123221885231_586833519230058496_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/299/gallery/13143/conversions/119828457_1975454602585421_2715196711754104281_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/299/gallery/13141/conversions/109853379_1914234175374131_1518880676796231862_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/299/gallery/1181/conversions/image3-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/299/gallery/1183/conversions/whatsapp_image_2018_06_18_at_15.06.00_1_-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/299/gallery/1185/conversions/whatsapp_image_2018_06_18_at_15.06.01_1_-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/299/gallery/1182/conversions/whatsapp_image_2018_06_18_at_15.05.59_2_-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/299/gallery/1184/conversions/whatsapp_image_2018_06_18_at_15.06.00_2_-big.jpg"
+    ],
+    "description": "Ganesha Caffe este o cafenea cu specific oriental care s-a făcut cunoscută prin cea mai bună narghilea din București. De asemenea, este apreciată datorita meniului vast de băuturi și datorită decorului exotic. Ganesha is the place to be!",
+    "location": "Strada Barbu Văcărescu 71, Floreasca, București",
+    "price": "$",
+    "reviewObj": [
+      {
+        "reviewBody": "Servicii excelente. Orice ai nevoie, ti se aduce in maxim 5 minute.",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Muzica data atat de tare incat conversatia era imposibila, chelnerii putin habarnisti, preturile mari, iar mancarea preluata de la niste fast-food-uri si vanduta la pret de restaurant",
+        "reviewStars": 2
+      }
+    ]
+  },
+  {
+    "title": "Restaurant Ciao Niki",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3125/gallery/8857/conversions/65103016_650706162004164_8411082756406116352_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3125/gallery/8858/conversions/64317902_650996668641780_4949307955842383872_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/3125/gallery/8859/conversions/64246273_650996625308451_9190054403581673472_n-big.jpg"
+    ],
+    "description": "O casă memorabiliă, o grădină splendidă, italiană. Pe lângă atmosfera minunată, relaxantă, ca de vacanță, vă așteptăm cu cele mai bune preparate, toate gătite la moment, cu deserturi făcute de noi, cu cele mai răcoroase băuturi.",
+    "location": "Strada Bocșa 4, Armenească, București",
+    "price": "$$",
+    "reviewObj": [
+      {
+        "reviewBody": "Interiorul este din filme, servirea exceptionala, de mancare nu mai are rost sa discut. Wow!!!",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Nu am plecat inca!locatia este superba, mancarea la fel.atmosfera foarte placuta ( sunt cu alin si lucian)Groso/modo, foarte ok!Mai vin",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Mancarea si servirea impecabile. Se respecta masurile de siguranta.",
+        "reviewStars": 5
+      }
+    ]
+  },
+  {
+    "title": "Sharkia",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1609/gallery/9746/conversions/76906694_2769307636446755_3586416091523448832_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1609/gallery/9749/conversions/80555008_2819285188115666_4177654022406144000_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1609/gallery/9748/conversions/79760072_2834808826563302_9005953602556002304_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1609/gallery/9747/conversions/79507726_2823566004354251_7781943963929280512_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/1609/gallery/9750/conversions/81462625_2852388324805352_3351080690048303104_o-big.jpg"
+    ],
+    "description": "Sharkia is named after an east wind from the Levantine region and brings you the whiff of the original East Mediterranean flavours. Tradition says that, each evening, the wind blows the bells in front of the houses and this is the signal for all family members to join the dinner. Our Sharkia invites you to the same cozy, warm and friendly mood to enjoy our fresh and delicious cuisine made from fresh and authentic ingredients. Eat Healthy. Eat Mediterranean. We pride ourselves in using the most wholesome ingredients therefore the quality, nutritional value and freshness of the food are our main promise towards all Sharkia guests. The authenticity of our ingredients offers a unique culinary experience and we strive to create food that is fuel for your mind and body, as well as for your spirit. Enjoy our menu variety and let the aromas and textures of our culinary delights spoil your senses. Sharkia restaurant is included in the renowned restaurants guide Gault & Millau 2019+ VEZI MAI MULT",
+    "location": "Strada Luterana 2-4, Piața Romană, București",
+    "price": "$$",
+    "reviewObj": [
+      {
+        "reviewBody": "Great staff, amazing atmosphere and lovely food. Totally would recommend to anyone, also super chill and warm",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Curatenie 5,Personal 5,Mancare 3 (n-am stiut ca e libanez. nu sunt fan)aproape fast food. meniu firav de tot.celorlalti le-a placut.Atmosfera de bar 3,",
+        "reviewStars": 4
+      },
+      {
+        "reviewBody": "Plus side: Delicious food, when you're lucky enough to receive it.To improve: Really slow serving. Other clients ordering 20 minutes after me the same thing (menu of the day) were served before.50 minutes later, still no food (not even take away), had to go to a meeting, hungry.Never coming back.Sursa: Google",
+        "reviewStars": 1
+      },
+      {
+        "reviewBody": "Can someone Tell me why it is closed although it should be daily open regarding the sign at the door?Sursa: Google",
+        "reviewStars": 3
+      },
+      {
+        "reviewBody": "Very, very good food, which was a nice surprise. :) Excellent beef and juicy lamb. The rice is also very good, full of different flavors. And the pita is AMAZING. Next time we'll come only for the pita bread, which goes well with the hummus.Regarding the lava cake and ice cream, they were a bit too sweet... And I have a sweet tooth. :) I think the amount of sugar can be easily reduced, especially for the lava cake.Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Delicious Lebanese food and good service. We had a great chill dinner. Would recommend 👍Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "The food is great and the staff is extremely nice and quiet.Sursa: Google",
+        "reviewStars": 5
+      }
+    ]
+  },
+  {
+    "title": "Storage Room",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/349/gallery/12936/conversions/53323441_2263437317012704_3880686896795353088_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/349/gallery/12940/conversions/117024106_3354873634535728_4702779387907442115_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/349/gallery/12937/conversions/54210492_2263437500346019_1552297413811634176_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/349/gallery/12942/conversions/118545859_3421521844537573_8243529444356820539_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/349/gallery/12938/conversions/54258164_2263437397012696_3815221085419339776_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/349/gallery/12943/conversions/118747607_3447614411928316_5497756778460913734_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/349/gallery/12939/conversions/101668947_3194262243930202_9053279038520496204_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/349/gallery/12941/conversions/117575530_3375762945780130_3868879151463780023_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/349/gallery/12944/conversions/119797195_3496143367075420_8263714044215087013_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/349/gallery/12945/conversions/120427270_3530868623602894_84675968790000288_o-big.jpg"
+    ],
+    "description": "Storage Room este unul dintre pub-urile unde porțiile de mâncare foarte generoase completează perfect meniul de băuturi. Un loc colorat, unde finețurile de tip platou cu feluri diferite de brânză sunt în simbioză cu burgerii, platourile cu preparate la grătar și deserturile.",
+    "location": "Strada Smârdan 35, Centrul Vechi, București",
+    "price": "$$",
+    "reviewObj": [
+      {
+        "reviewBody": "Cozy place but the couches were dirty, there wasn't very much to choose from in the menu and you couldn't order things separately, only a main course and side dish together. One person in the staff told us people were not allowed to smoke inside even though 50% of the customers were smoking around her so she was clearly not informed about the \"no smoke\" rule. The rest of the staff was were active, professional and nice to talk to.Sursa: Google",
+        "reviewStars": 3
+      },
+      {
+        "reviewBody": "Pretty nice place in the middle of the city. Staff and prices ok but not the best. We ordered some bruschetta with salmon and the bread wasn't quite toasted as it should have been. Also my friend ordered a medium rare beef sirloin and it came rare. Also the quality of the meat wasn't very good.Sursa: Google",
+        "reviewStars": 3
+      },
+      {
+        "reviewBody": "Nice drinks, good food, decent services, you can ad tips on the card payment if you don't have cash on you.Sursa: Google",
+        "reviewStars": 4
+      },
+      {
+        "reviewBody": "Best Cortado cofee ever.. With cinnamon 👍Sursa: Google",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Nice place, good service. Food generaly good, but sometimes some of ingredients were missing. I would recommend pizza margherita with all my heart though 😊Sursa: Google",
+        "reviewStars": 4
+      }
+    ]
+  },
+  {
+    "title": "Suzana Ribs & Wings",
+    "images": [
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2397/gallery/13018/conversions/29793355_1864468000232960_409698111481446400_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2397/gallery/13020/conversions/70750159_2646288448717574_2978878063967731712_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2397/gallery/13019/conversions/36256564_1960020464011046_1487603579857403904_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2397/gallery/13021/conversions/84839642_2946678525345230_4804913401618759680_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2397/gallery/6312/conversions/13118843_1181763068503460_804324138925270150_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2397/gallery/13022/conversions/94983512_3140286275984453_8006972156858597376_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2397/gallery/6308/conversions/15384352_1368280883185010_402705070422696585_o-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2397/gallery/6310/conversions/10363586_788226667857104_6749922084420724138_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2397/gallery/13023/conversions/107487380_3347057425307336_8309921012395002335_n-big.jpg",
+      "https://d2fdt3nym3n14p.cloudfront.net/venue/2397/gallery/6311/conversions/1383496_756013314411773_1291074431_n-big.jpg"
+    ],
+    "description": "Suzana Ribs & Wings este un concept de restaurant inedit în România, ce oferă un meniu variat și gustos, cu specialități texane. Decorul si meniul deopotriva te introduc in atmosfera vestului salbatic",
+    "location": "Calea Rahovei 147-153, Rahova, București",
+    "price": "$",
+    "reviewObj": [
+      {
+        "reviewBody": "Mancare gustoasa și porții generoase, personal amabil, prompt, preturi decente, atmosfera friendly. Recomand! Mai venim!",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Pro: Mancarea extraordinar de buna.Contra: Personalul lasa de dorit1. Am comandat un platon de aripioare cu sosuri si garnitura, iar persoana care ne-a luat comanda a presupus fara sa ne intrebe ce sosuri si ce garnitura dorim ( la garnita ne nimerise, dar la sosuri noi ne doream altceva ). Doamna a parut nemultumita ca noi aveam preferinte. Cand a adus comanda, initial, am primit sosurile recomandate de doamna si in nici un caz ce ne doream noi. Ulterior ne-au fost aduse si sosurile dorite.2. Am fost intrebat cum vreau sa platesc ( cash/card ) si am zis ca doresc cu cardul. Imediat mi s-a raspuns ca a fost facut bonul pentru cash. A asteptat sa verific daca am cash la mine si apoi mi-a facut pentru card.",
+        "reviewStars": 3
+      },
+      {
+        "reviewBody": "We went here because we saw they had an open air terrace and wantes to try the ribs. Needless to say, we're visiting again as soon as the lockdown restrictions are off.The ribs were tasty, the portion enormous, recommend the bowl of corn as a starter/ side dish.The atmosphere was perfect for a weekend lunch, with sun aplenty, spacious terrace with plenty of distancing. The fact the place is basically the back garden of an old building makes it very cozy.Definitely give it a try!",
+        "reviewStars": 5
+      },
+      {
+        "reviewBody": "Ok dar coastele cu usturoi au fost prea uscate/arse rest totul bine și frumos",
+        "reviewStars": 5
+      }
+    ]
+  },
+  {
+    "title": "18 Lounge",
+    "images": [
+      "https://www.zilesinopti.ro/media/37164.jpg",
+      "https://www.zilesinopti.ro/media/bf6e433a682e1a0e6ae07e67fd8c0129.jpg",
+      "https://www.zilesinopti.ro/media/b1f6339677f24918a36c9e506e633cc8.jpg"
+    ],
+    "description": "18 Lounge este localizat pe acoperişul clădirii City Gate South Tower, oferind prin ferestrele mari de sticlă o panoramă impresionantă a oraşului, a Lacului Herăstrău şi a Bulevardului Kiseleff.",
+    "location": "Piaţa Presei Libere 3-5",
+    "price": "unspecified",
+    "reviewObj": []
+  },
+  {
+    "title": "37-39 Bistro",
+    "images": [
+      "https://www.zilesinopti.ro/media/15416f39cda6b96d4983d17dc4be8e2d.jpg",
+      "https://www.zilesinopti.ro/media/6ceca5a86c9ace85d37c604f1e589d93.jpg",
+      "https://www.zilesinopti.ro/media/4bbb3e4816abad4dfe2fcd0dff1ded5d.jpg"
+    ],
+    "description": "37-39 Bistro este locul unde poți găsi o muzică bună, un rock calm alternat cu hituri internaționale de calitate, oldies, but goldies. La noi poți gusta preparate delicioase, proaspete și petrece un timp plăcut cu prietenii la o discuție. Bistro-ul nostru este mai mereu plin, și cum dă căldură, terasa aflată chiar la intrarea în parc se umple de oameni veniți din toate colțurile orașului, fie cu mașină, fie cu motocicleta, bicla sau pe jos.",
+    "location": "Bulevardul Basarabia 37-39",
+    "price": "unspecified",
+    "reviewObj": []
+  },
+  {
+    "title": "3Kombinat",
+    "images": [
+      "https://www.zilesinopti.ro/media/6d8014ffe2b6b677218c498964c1c8af.jpg",
+      "https://www.zilesinopti.ro/media/4c665baa959bf39a73838374cf1ba7ce.jpg",
+      "https://www.zilesinopti.ro/media/7e114a3fb258e2231ebcb0e39b72ae5f.jpg"
+    ],
+    "description": "Atmosferă relaxantă, burgeri și bere. Locul perfect pentru o zi petrecută alături de cei mai tari prieteni.",
+    "location": "Strada Speranței 7",
+    "price": "unspecified",
+    "reviewObj": []
+  },
+  {
+    "title": "5 Elemente",
+    "images": [
+      "https://www.zilesinopti.ro/media/a2d138b568b0410460f98b67899053d1.jpg",
+      "https://www.zilesinopti.ro/media/811271df6db94f80d1835f5a5d8981b4.jpg",
+      "https://www.zilesinopti.ro/media/2ea1c8bd6cb2223f5cf8c9314138542a.jpg"
+    ],
+    "description": "Inspirat de un sistem filosofic străvechi, creație a maeștrilor TAO, restaurantul 5 Elemente promovează un stil de viață sănătos, echilibrat, armonios. Energia nutrițională se află în mâncare, de aceea meniul este ales cu grijă astfel încât să conțină toate elementele nutritive necesare unei alimentații echilibrate.",
+    "location": "Bulevardul Kiseleff 32",
+    "price": "unspecified",
+    "reviewObj": []
+  },
+  {
+    "title": "80-90 Gastropub & More",
+    "images": [
+      "https://www.zilesinopti.ro/media/7887018345964ab46381947.68092776.jpg",
+      "https://www.zilesinopti.ro/media/2109463535964ab463893f4.38718672.jpg",
+      "https://www.zilesinopti.ro/media/446871075964ab4638e575.22466777.jpg",
+      "https://www.zilesinopti.ro/media/6711182055964ab46393074.64630856.jpg",
+      "https://www.zilesinopti.ro/media/5fb3e1eb145d4bdd5fa04a3545ecb8b9.jpg",
+      "https://www.zilesinopti.ro/media/479cfbdcb6495d5ff6cca08c35c4c19b.jpg",
+      "https://www.zilesinopti.ro/media/333b823b71206163a19358700986341b.jpg"
+    ],
+    "description": "'80-'90 Gastropub & More îşi propune să ofere clienţilor o călătorie în copilăria lor, când papilele gustative erau mângâiate de \"fasole bătută\", \"pâine cu untură\", \"pâine prăjită cu unt și cu sare”, ”zacuscă” sau ”macaroane cu brânză”. Aceste preparate contribuie la crearea unei atmosfere care să ne aducă aminte de copilărie, alături de decorurile surprinzătoare şi de activităţile conexe.",
+    "location": "Strada Pictor Luchian Ștefan 15",
+    "price": "unspecified",
+    "reviewObj": []
+  },
+  {
+    "title": "Ad Hoc Bistro",
+    "images": [
+      "https://www.zilesinopti.ro/media/c1f61fff2131cd4162a26888615ccd38.jpg",
+      "https://www.zilesinopti.ro/media/78cf15e5de631b203dbd0053de6013e0.jpg"
+    ],
+    "description": " ",
+    "location": "Bulevardul C.A. Rosetti 10",
+    "price": "unspecified",
+    "reviewObj": []
+  },
+  {
+    "title": "Agrapalace",
+    "images": [
+      "https://www.zilesinopti.ro/media/6a6c8d6cd826c2c8655f3f7500238e9d.jpg",
+      "https://www.zilesinopti.ro/media/6f11ffde6c227542237264513e047d34.jpg",
+      "https://www.zilesinopti.ro/media/b69a3aabe66db5f49856f9696db12074.jpg"
+    ],
+    "description": "Bun venit gurmanzilor, căutatori ai celor o mie de condimente din tara celor o mie de zei, căci ei vor gasi aici un gust care a umplut lumea! Bun venit iubitorilor de rețete pe baza de carne, căci ei vor gusta deliciile cuptorului de argilă tandoori și se vor înfrupta din cele mai autentice rețete aduse de invaziile mogule in India cu sute de ani in urmă.",
+    "location": "Bulevardul Pipera Tuneri 47",
+    "price": "unspecified",
+    "reviewObj": []
+  },
+  {
+    "title": "Ai Sushi Bar",
+    "images": [
+      "https://www.zilesinopti.ro/media/19a668187c1e8be19b90e115d4248a7b.jpg",
+      "https://www.zilesinopti.ro/media/24d2c25f916d63a05f0f7a9a115bb420.jpg"
+    ],
+    "description": "Dacă vrei să încerci cele mai bune preparate specifice Asiei, atunci Ai Sushi Bar este locul potrivit pentru tine și prietenii tăi. Restaurantul servește mâncare japoneză într-un loc cochet, liniștit, care te face să uiți de agitația din viața cotidiană.",
+    "location": "Strada Paris 71",
+    "price": "unspecified",
+    "reviewObj": []
+  },
+  {
+    "title": "Aida Bistro",
+    "images": [
+      "https://www.zilesinopti.ro/media/cdff6fab6c96650324c5699da37ba5f6.jpg",
+      "https://www.zilesinopti.ro/media/f06980a042fec2684785dce94fc97617.jpg",
+      "https://www.zilesinopti.ro/media/b7a9a92a9813877234d7ee461048f671.jpg",
+      "https://www.zilesinopti.ro/media/68edf96c38bac0a54eda4a4cd0f71811.jpg"
+    ],
+    "description": "Este o incursiune în spațiul de latinitate universal, unde masa este un ritual, un moment de tihnă și liniște în familie și între prieteni. Vă propunem o alternativă la meniurile clasice, printr-o experiență de tip boutique gourmet și o atmosferă pe măsură. Bistro-ul preia din istoria de peste un secol a Palatului Bragadiru și din atmosfera vechiului cinema Aida, pe care le îmbină cu modernismul meniurilor concepute cu creativitate și a show-urilor de live cooking. Arhitectura ce împletește elemente victoriene cu detalii moderne, specifice secolului XXI, vă va transpune într-o lume a bunului gust și totodată a gustului bun.",
+    "location": "Calea Rahovei 147-153",
+    "price": "unspecified",
+    "reviewObj": []
+  },
+  {
+    "title": "Al Wady - Promenada Mall",
+    "images": [
+      "https://www.zilesinopti.ro/media/6df851a6c06c8b92d641017f50f53afd.jpg",
+      "https://www.zilesinopti.ro/media/b590062790ee7d89a849a4fc8f3343c9.jpg",
+      "https://www.zilesinopti.ro/media/81ca315eb3a46f85e64dd0d373111ed6.jpg"
+    ],
+    "description": "Al Wady din Promenada Mall este un restaurant cu specific internațional, unde poți savura preparate libaneze cu un gust delicios, într-o atmosferă liniștită și prietenoasă. La noi ai ocazia de ați petrece timpul într-un ambient plăcut, unde poți gusta o cafea specială, savura un preparat delicios și sta la discuții cu prietenii.",
+    "location": "Calea Floreasca 246B, București",
+    "price": "unspecified",
+    "reviewObj": []
+  },
+  {
+    "title": "Antricot",
+    "images": [
+      "https://www.zilesinopti.ro/media/e81396cec35be3ad00135c9fc32e1d0b.jpg",
+      "https://www.zilesinopti.ro/media/93574fc97d247f19b3b1cc17c5250ab5.jpg",
+      "https://www.zilesinopti.ro/media/f149eae1508db4783be4b2067aa4f260.jpg"
+    ],
+    "description": "Antricot este arta de a prepara steak-ul perfect. Grătar pe cărbuni de lemn și o incredibilă pasiune a lucrului bine făcut. Fiecare friptură ce iese de pe grătarul nostru trebuie să fie excelentă, din respectul pe care îl avem pentru clienți și pentru carnea de cea mai bună. ",
+    "location": "Calea Floreasca 246 B",
+    "price": "unspecified",
+    "reviewObj": []
+  },
+  {
+    "title": "Aperitivo Bar",
+    "images": [
+      "https://www.zilesinopti.ro/media/9772163755f2d2923c31011.57904080.jpg",
+      "https://www.zilesinopti.ro/media/2334205415f2d2923c4a416.16176927.jpg",
+      "https://www.zilesinopti.ro/media/7657561135f2d2923c56fa4.51215790.jpg"
+    ],
+    "description": "Aperitivo Bar este un bar localizat la adresa Soseaua Nordului numărul 7-9. Deschis zilnic între orele 12:00 - 00:00.La Aperitivo Bar te poți bucura de o cafea perfectă sau un cocktail pe gustul tău.",
+    "location": "Soseaua Nordului 7-9, Herãstrãu, București",
+    "price": "unspecified",
+    "reviewObj": []
+  },
+  {
+    "title": "Aqua Garden Militari Residence",
+    "images": [
+      "https://www.zilesinopti.ro/media/53409f25f81cd54ae59cbc80b5b48134.jpg",
+      "https://www.zilesinopti.ro/media/885e28f39a089b39f609ab4206e7384f.jpg",
+      "https://www.zilesinopti.ro/media/1898e03450cd2e13c9dcfe5ef24bb3d1.jpg",
+      "https://www.zilesinopti.ro/media/3abb8a3af9e0ce10ee9643889c270eed.jpg"
+    ],
+    "description": "Restaurant Aqua Militari Residence este oaza ta de relaxare construită special pentru zilele în care vrei să te simți în vacanță. Am ales arhitectura japoneză și am realizat pentru tine grădini suspendate, amenajate cu mobilier confortabil de ratan, fiecare dintre aceste spații având intimitate dar și viziune de ansamblu asupra întregului complex Aqua Garden.",
+    "location": "Strada Rezervelor 70",
+    "price": "unspecified",
+    "reviewObj": []
+  },
+  {
+    "title": "ARC Bakery",
+    "images": [
+      "https://www.zilesinopti.ro/media/4708316e2a25a34203d9fe073fa5733f.jpg",
+      "https://www.zilesinopti.ro/media/2e03038938e809d01fc74365b9f5bc80.jpg",
+      "https://www.zilesinopti.ro/media/962f29c3f318bacea6999cf4848e48b0.jpg",
+      "https://www.zilesinopti.ro/media/d62ba925351f2bdfb112194c5e570fb1.jpg",
+      "https://www.zilesinopti.ro/media/d42214c8e6d8fef1a3b92626f2c91f13.jpg",
+      "https://www.zilesinopti.ro/media/53c6c6294e4fc17e1478eb5306bb1563.jpg"
+    ],
+    "description": "La ARC Bakery veți găsi multe sortimente de pâine, cum ar fi secară, hrișcă, semințe de in, cereale și produse de patiserie delicioase, cum ar fi cornuri cu unt, pain au chocolat, rulouri cu mac și multe altele. Iar pentru cei care doresc să încerce un mic dejun sau un prânz delicios, sediul nostru poate oferi câteva feluri de mâncare, care se bazează pe produse proaspete și sănătoase. Vă invităm să ne vizitați la ARC Bakery!",
+    "location": "Bulevardul Mărăști 20A",
+    "price": "unspecified",
+    "reviewObj": []
+  },
+  {
+    "title": "Arco - Giro di Gusto",
+    "images": [
+      "https://www.zilesinopti.ro/media/13905119945f2d27793bfb13.99610942.jpg",
+      "https://www.zilesinopti.ro/media/5136876275f2d27793d3b33.46542159.jpg",
+      "https://www.zilesinopti.ro/media/2910986005f2d27793ddcf1.17632521.jpg"
+    ],
+    "description": "Arco - Giro di Gusto este un restaurant localizat la adresa Maresal Averescu numărul 15 B/C. Deschis de Luni până Vineri între orele 09:00 - 18:00, cu excepția zilelor de Sâmbătă și Duminică când este închis.La Arco - Giro di Gusto te poți bucura de unele din cele mai bune preparate cu specific italian.",
+    "location": "Maresal Averescu 15 B/C, București",
+    "price": "unspecified",
+    "reviewObj": []
+  },
+  {
+    "title": "Argentine Steak & Sushi Herastrău",
+    "images": [
+      "https://www.zilesinopti.ro/media/22d7247988dd4e880ad719b781c1801b.jpg",
+      "https://www.zilesinopti.ro/media/b30cb89d7b48ce95377f17c093e8d21f.jpg",
+      "https://www.zilesinopti.ro/media/73d2e4d4ba5a01dd0d56b824c658fc7d.jpg"
+    ],
+    "description": "Longevitatea de peste 10 ani a restaurantului, alături de vasta experiență în bucătăria japoneză a lui Chef Cătălin Petrescu, îmbină “gusturile” de steak & sushi în cel mai inedit și gustos mod cu putință. Cu alte cuvinte, dacă vă gândiți la vită Argentiniana, gătită la perfecție, în cele mai ademenitoare nuanțe de roz, noi vă invităm să o descoperiți și, mai ales, să o degustați. Este preparată după rețetă secretă a casei, iar gustul este unul deja recunoscut în București. ",
+    "location": "Șoseaua Nordului 1",
+    "price": "unspecified",
+    "reviewObj": []
+  },
+  {
+    "title": "Aria Gourmet Burger",
+    "images": [
+      "https://www.zilesinopti.ro/media/71825cbee9f90414c1bbb24f1020ce1b.jpg",
+      "https://www.zilesinopti.ro/media/6752631e9c5e87f0d2857bf683ea3aaf.jpg",
+      "https://www.zilesinopti.ro/media/e584d8eb8fc0a13996960ccbdf1ec2dc.jpg",
+      "https://www.zilesinopti.ro/media/81d93eeb25318cff966f002307bd738d.jpg",
+      "https://www.zilesinopti.ro/media/7c8818f47a4266126215b13eaab4f90c.jpg",
+      "https://www.zilesinopti.ro/media/0e32304398a62d550090ba905fcb7886.jpg"
+    ],
+    "description": "Rețete originale, sănătoase, home made, sosuri gândite special pentru fiecare tip de burger. Pe lângă selecția de burgeri gustosi veți găsi și salate, wrapuri și deserturi delicioase, atent preparare de Chef Paraschivescu.",
+    "location": "Strada Slănic 2",
+    "price": "unspecified",
+    "reviewObj": []
+  },
+  {
+    "title": "Asteria",
+    "images": [
+      "https://www.zilesinopti.ro/media/32975.jpg",
+      "https://www.zilesinopti.ro/media/32976.jpg"
+    ],
+    "description": "Asteria își întâmpină clienții cu savoarea busuiocului, mentei, salviei, a uleiului de măsline tradițional și bineînțeles cu un zâmbet cald. Cei care ne calcă pragul sunt răsfățați cu fructe de mare, musaca, iaurt cu miere și nuci, salate delicioase și sănătoase, și niciodată nu uităm de celălalt aspect, la fel de important, pentru o experiență cât mai plăcută în restaurant: decorul elegant, curăț și de bun gust, regăsit în toate încăperile noastre. Confortul clienților este prima noastră grijă, de aceea le punem la dispoziție parcarea privată a restaurantului, WI-FI gratuit în incintă, aer condiționat, cameră de joacă pentru copii și terasă pe timpul verii, cu o capacitate de 20-25 de locuri.  ",
+    "location": "Sos Pipera Tunari, 1S",
+    "price": "unspecified",
+    "reviewObj": []
+  },
+  {
+    "title": "Atelier Gourmanderie",
+    "images": [
+      "https://www.zilesinopti.ro/media/daa0c6809c814ce9441bc7dda6225082.jpg",
+      "https://www.zilesinopti.ro/media/3d33d8d9a8ecfe05ce407d6007fde0ee.jpg",
+      "https://www.zilesinopti.ro/media/813a4ef4e91a3bf900d95a66926d1321.jpg",
+      "https://www.zilesinopti.ro/media/c74237e97eafe506c6d4d34939e4e1c3.jpg",
+      "https://www.zilesinopti.ro/media/3bf0c3360d542fd6153a4b616f04e057.jpg"
+    ],
+    "description": "Atelier Gourmanderie este locul cu care ne mândrim! Un bistro cochet, potrivit pentru familii și povești, un colț de lume în care te poți relaxa gustând bucate proaspete și sănătoase. La noi vii nerăbdător și pleci cu un sentiment de voie bună. Nici nu poate fi altfel, căci am creat acest bistro pentru ca toți cei care ne trec pragul să se bucure de tainele gătitului cu dragoste. De aceea vă oferim tot ce știm noi că-i mai bun, mai gustos și mai arătos. Toate acestea într-o atmosferă relaxantă, ca să-ți tihnească șederea.  Avem un spațiu de 30 de locuri pe care te invităm să-l umpli cu prieteni, familie, oameni dragi, de la cei mai mici, la cei mai mari. Poftiți la noi cu toții, ușa, precum și inima, ne e mereu deschisă!",
+    "location": "Strada Erou Iancu Nicolae 67, Pipera",
+    "price": "unspecified",
+    "reviewObj": []
+  },
+  {
+    "title": "Atelierul de Tarte",
+    "images": [
+      "https://www.zilesinopti.ro/media/881666ac376aacff3da050896d91160c.jpg",
+      "https://www.zilesinopti.ro/media/510d1514f9e234cf2986df59035a4b77.jpg",
+      "https://www.zilesinopti.ro/media/de4d89201a4272bfa783fb09a41cce94.jpg",
+      "https://www.zilesinopti.ro/media/6b71608be82cee2e29473237dc289888.jpg"
+    ],
+    "description": "Este un loc micuț, intim, personalizat, cu atmosferă relaxată și care te îndeamnă să-i treci pragul fie dimineață, prânz sau seară. Vedetele Atelierului de Tarte sunt, în mod evident, tartele, atât cele dulci, cât și cele sărate (quiche-uri). Cu toate astea, există și opțiuni pentru micul dejun - diferite tipuri de omlete, sau prânz și cină - salate, paste sau burgeri.",
+    "location": "Bulevardul Ion Mihalache 20",
+    "price": "unspecified",
+    "reviewObj": []
+  },
+  {
+    "title": "Athanor. La coupteur.",
+    "images": [
+      "https://www.zilesinopti.ro/media/15296789065f35404dd8ea26.74778085.jpg",
+      "https://www.zilesinopti.ro/media/5630031185f35404dda1dc4.21334851.jpg",
+      "https://www.zilesinopti.ro/media/11946876555f35404ddac679.44398537.jpg",
+      "https://www.zilesinopti.ro/media/10645345935f35404ddbd172.06915540.jpg",
+      "https://www.zilesinopti.ro/media/15300165005f35404ddc69e0.44652172.jpg"
+    ],
+    "description": "\"Athanor\" e un bistrou care funcționează într-o gospodărie țărănească tradițională din Gurbănești, Călărași. Servim în principal preparate gătite la cuptor pe lemne, grătar sau afumate cu diverse esențe de lemn. Folosim cu precădere ingrediente locale sau de la mici producători români ori din grădina proprie. Meniul e variabil în funcție de moment sau sezon. Pretul e fix, 150 lei de persoană, all you can eat din ce e disponibil (cel puțin 5 feluri), exclusiv băutura. Poți veni cu băutura preferată de acasă, la bistrou avem doar un vin roșu și unul alb și bere artizanală. Locurile sunt disponibile doar cu rezervare.După masă te poți relaxa într-un hamac, citi la umbră, admira grădina cu trandafiri sau vizita atelierul Victoriei, nu te fugărește nimeni :) Ideea e să-ți încarci bateriile, nu numai să mănânci bine.",
+    "location": "Gurbanesti, Prelungirea Mostiștei 27, București",
+    "price": "unspecified",
+    "reviewObj": []
   }
 ]

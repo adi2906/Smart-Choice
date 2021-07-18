@@ -9,7 +9,6 @@ const {getLocation} = require("./utils/location")
 
 
 module.exports.isLoggedIn = (req, res, next) => {
-    // console.log("REQ.USER:", req.user);
     if(!req.isAuthenticated()){
         req.session.returnTo = req.originalUrl;
         req.flash("error", "You must be logged in!");
@@ -39,19 +38,16 @@ module.exports.isReviewAuthor = async (req, res, next)=>{
     next();
 }
 
-module.exports.map = async (req, res, next)=>{
-  console.log("test");
-  const {id} = req.params;
-  const restaurant = await Restaurant.findById(id);
-  let location = await getLocation(restaurant.location).then((result)=> result);
-  console.log(location[0]);
-
-  
-  next();
-}
+// module.exports.map = async (req, res, next)=>{
+//   const {id} = req.params;
+//   const restaurant = await Restaurant.findById(id);
+//   let location = await getLocation(restaurant.location).then((result)=> result);
+//   next();
+// }
 
 
 //validate restaurants server-side
+
 module.exports.validateRestaurant = (req, res, next) => {
     const {error} = restaurantSchema.validate(req.body);
     if (error) {
